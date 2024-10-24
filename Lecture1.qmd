@@ -21,323 +21,17 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Lecture 1: History of antibiotic therapy {background-image="images/flemming1.png" background-opacity="0.2"}
+## Lecture 5: β-lactams, Part 2: <br> Cephalosporins and carbapenems {background-image="images/Bronzu.png" background-opacity="0.1"}
 
-<br> <br> <br> <br> <br>
+<br> <br> <br> <br>
 
 **Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
 
-![](images/unipd.png){.absolute top="550" left="950" width="100" height="100"}
-
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
 
+![](images/University_of_Padua_seal.svg){width="100"}
+
 ## Agenda
-
-## Appropriate perspective
-
-<br>
-
-<br>
-
-![](images/spellber1.png){fig-align="center"}
-
-::: aside
-[@spellberg.etal_2008c]
-:::
-
-## Antimicrobial use: bacteria vs. humans {.smaller}
-
-![](images/bugvman.png){fig-align="center" width="600"}
-
-::::: columns
-::: {.column width="50%"}
-**Bacteria**
-
--   A millionth of a meter or less
-
--   Small amounts targeted to special circumstances
-
--   Minimal environmental exposure, minimized selective pressure
-:::
-
-::: {.column width="50%"}
-**Humans**
-
--   Considerable environmental exposure
-
--   Considerable selective pressure for resistant organisms
-:::
-:::::
-
-## Chemical warfare in nature
-
-<br>
-
-<br>
-
-::::: columns
-::: {.column width="50%"}
-![](images/actino.png){fig-align="center"}
-:::
-
-::: {.column width="50%"}
-![](images/mellon.png){fig-align="center"}
-:::
-:::::
-
-## Ancient antibiotic therapy
-
-<br>
-
-::::: columns
-::: {.column width="40%"}
-![](images/acient.png){fig-align="center" width="300"}
-:::
-
-::: {.column width="60%"}
-<br>
-
--   **China**: Moldy tofu to treat inflammation and infection of the skin 
--   **Egypt**: Moldy bread (Aish baladi) to treat skin lesions 
--   **Greeks:** Myrrh, wine, honey or caustic substances to treat wound infections 
-:::
-:::::
-
-## Egyptians made tetracycline beer {.smaller}
-
-![](images/nubians.png){fig-align="center" width="800"}
-
-[@nelson.etal_2010c]
-
-## Paul Erlich (1854-1917) and the birth <br> of "modern" antibiotics {.smaller}
-
-<br>
-
-::::: columns
-::: {.column width="50%"}
-![](images/Erlich1.png)
-:::
-
-::: {.column width="50%"}
-<br>
-
--   Developed methods for staining tissue made it possible to distinguish between different types of blood cells, which led to the ability to diagnose numerous blood diseases → **"magic bullet hypothesis"**
-
--   First screening of chemical libraries to identify active antibacterial compounds (synthetic compounds)
-
--   First effective treatment for syphilis- arsphenamine (Salvarsan) 1909
-
--   Developed methods for staining tissue made it possible to distinguish between different types of blood cells, which led to the ability to diagnose numerous blood diseases
-
--   First screening of chemical libraries to identify active antibacterial compounds (synthetic compounds)
-
--   **First effective treatment for syphilis- arsphenamine (Salvarsan) 1909**
-:::
-:::::
-
-::: aside
-Image: Wellcome Library, London
-:::
-
-## Salvarsan is toxic
-
-::::: columns
-::: {.column width="50%"}
-![](images/salvarsan.png)
-:::
-
-::: {.column width="50%"}
-<br> <br>
-
-Side effects attributed to Salvarsan, included rashes, liver damage, and risks of life and limb, were thought to be caused by improper handling and administration of the relatively insoluble compound
-:::
-:::::
-
-## Alexander Fleming (1881-1955): The serendipitous discovery {.smaller}
-
-::::: columns
-::: {.column width="50%"}
-
-<br> <br>
-![](https://i.makeagif.com/media/7-05-2015/V0HT6G.gif)
-:::
-
-::: {.column width="50%"}
-<br> <br> <br>
-
--   Fleming was skilled at administering Salvarsan to patients with syphilis, which led to a small but profitable practice
--   During World War I, Fleming worked in a wound-research laboratory and discovered that chemical antiseptics do not sterilize jagged wounds, and pus has its own antibacterial powers
--   After the war, Fleming focused on studying leukocytes and antisepsis, and in 1921 he discovered lysozyme, a substance that causes bacteria to disintegrate, but its effectiveness was limited against disease-causing bacteria
-:::
-:::::
-
-## Discovery of penicillin
-
-<br> <br>
-
-::::: columns
-::: {.column width="50%"}
-<br> <br>
-
-![](images/pcn1.png)
-:::
-
-::: {.column width="50%"}
-![](images/pcn2.png)
-:::
-:::::
-
-::: aside
-[@fleming_1929]
-:::
-
-## Gerhard Domagk (1895-1964): <br> Discovery of sulfonamides
-
-::::: columns
-::: {.column width="40%"}
-![](images/Domagk.png){width="1500"}
-:::
-
-::: {.column width="60%"}
--   Prontosil metabolized to sulfanilamide *in vivo,* initially found to be inactive in microbiological assays
--   Among the early patients was Domagk’s own 6-year-old daughter, Hildegard, who had contracted a severe streptococcal cellulitis from an accident with a sewing needle
--   Utterly desperate when the doctor recommended amputation to save his daughter’s life, Domagk treated Hildegard with Prontosil.
--   Hildegard recovered, but suffered a permanent reddish discolouration of her skin owing to the drug
-:::
-:::::
-
-## Florey, Chain and Heatley: <br>Rediscovery and purification of penicillin
-
-<br>
-
-![](images/Florey.png)
-
-::: aside
-Image: Welcome collection
-:::
-
-## First hints of efficacy
-
-![](images/penicllinpots.png)
-
-::: aside
-[@lobanovska.pilla_2017a]
-:::
-
-## Challenge: How to produce enough penicillin?
-
-<br>
-
-::::: columns
-::: {.column width="50%"}
-![](images/heatleys_fermenter.png)
-:::
-
-::: {.column width="50%"}
-<br>
-
--   It was difficult to ferment enough crude peniciilin and to gain samples with few impurities
--   Heatley’s inventiveness shown both in this device and in his design of a dish to grow the mould at an experimental scale was of great importance to the development of penicillin
-:::
-:::::
-
-::: aside
-Images: Oxford university archive
-:::
-
-## First trials in patients
-
-<br>
-
-![](images/firstpatient.png)
-
-::: aside
-[@abraham.etal_1941]
-:::
-
-## Clinical response to penicillin
-
-<br>
-
-![](images/response1.png)
-
-::: aside
-[@abraham.etal_1941]
-:::
-
-## Clinical response to penicillin
-
-<br>
-
-![](images/response2.png)
-
-::: aside
-[@abraham.etal_1941]
-:::
-
-## Winston Churchill's life saved with sulfapyridine in 1943
-
-<br> <br>
-
-![](images/churchill.png){fig-align="center"}
-
-## Industrial scale production of penicillin <br> in the United States {.smaller}
-
-::::: columns
-::: {.column width="50%"}
-<br> <br>
-
-![](images/US1.png){width="800"}
-:::
-
-::: {.column width="50%"}
-![](images/US2.png){width="800"}
-:::
-:::::
-
-::: aside
-Source: US National Library of Medicine
-:::
-
-## Structure of penicillin
-
-::::: columns
-::: {.column width="50%"}
-![](images/Hodgekin.png)
-:::
-
-::: {.column width="50%"}
-<br>
-
--   Dorothy Hodgkin, a crystallography expert at Oxford University, used X-rays to analyse the structure of various natural products 
-
--   In 1946, she determined the structure of penicillin, earning her the Nobel Prize in Chemistry in 1964
-
--   Knowledge of the penicillin structure allowed scientists to modify penicillin, leading to the development of semisynthetic versions with broadened spectrum of activity, incrased stability, reduced toxicity
-:::
-:::::
-
-::: aside
-Image source: Wikipedia
-:::
-
-## First reports of penicillin resistance
-
-<br>
-
-![](images/pcnr.png){fig-align="center"}
-
-::: aside
-[@abraham.chain_1940]
-:::
-
-## Repeating history
-
-![](images/timeline.png)
-
-::: aside
-[@spagnolo.etal_2021]
-:::
 
 ## Discovery of cephalosporins {.smaller}
 
@@ -359,263 +53,51 @@ Image source: Wikipedia
 :::
 :::::
 
-## First effective therapies for tuberculosis
+## First generation cephalosporins; <br> derivatives of 7-ACA {.smaller}
 
-::::: columns
-::: {.column width="50%"}
-![](images/Wakesman.png){width="800"}
-:::
-
-::: {.column width="50%"}
--   Selman Waksman and his team discovered multiple antimicrobials in the 1940s, including actinomycin, streptomycin, and neomycin
-
--   Their research focused on studying fungi and Actinobacteria, with a particular emphasis on soil bacteria belonging to the *Streptomyces* genus
-
--   *Streptomyces* bacteria were found to naturally produce a wide range of antimicrobials, leading to the discovery of these important compounds
-
--   **Wakesman is credited with introduction of the term “antibiotic”**
-:::
-:::::
-
-## TB sanatoriums and impact of effective therapy
-
-![](images/Ringo.png){fig-align="center"}
-
-## Antibiotic discovery: "The Golden Age"
-
-
-![](images/timeline2.png){width="1800"}
+![](images/1gen.png){fig-align="center" width="400"}
 
 ::: aside
-[@milgroom_2023]
+-   Gram positive activity: Cover Methicillin-sensitive *S. aureus* (MSSA) and streptococci:
+-   Used for uncomplicated skin and soft-tissue infections (SSI)
+-   Surgical prophylaxis: cefazolin
+-   Some Gram negative coverage in urine: *P. mirabilis, E. coli, and K. pneumoniae*
 :::
 
-## Crises in new antibiotic development {.smaller}
+## Pharmacokinetics: 1st generation cephalosporins {.smaller}
 
 <br> <br>
 
-![](images/void.png)
++-------------------+---------------------------------------------------------------------------------------------------------+
+| **Absorption**    | Penicillin VK (oral); bioavailibility 60-73% <br> Penicillin G (IV) <br>Benzathine penicillin (IM) <br> |
++-------------------+---------------------------------------------------------------------------------------------------------+
+| **Distribution**  | -   0.35 L/kg                                                                                           |
+|                   |                                                                                                         |
+|                   | -   65% protein bound                                                                                   |
+|                   |                                                                                                         |
+|                   | -   500% bile:serum                                                                                     |
+|                   |                                                                                                         |
+|                   | -   5-10% CSF:blood (therapeutic for some pathogens)                                                    |
++-------------------+---------------------------------------------------------------------------------------------------------+
+| **Metabolism**    | -   No metabolism                                                                                       |
+|                   |                                                                                                         |
+|                   | -   t½ 0.5 hr                                                                                           |
+|                   |                                                                                                         |
+|                   | -   Substrate of OAT transporters                                                                       |
++-------------------+---------------------------------------------------------------------------------------------------------+
+| **Elimination**   | Renal 100%, impaired by probenicid                                                                      |
++-------------------+---------------------------------------------------------------------------------------------------------+
+| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                                                                 |
++-------------------+---------------------------------------------------------------------------------------------------------+
+| **Typical doses** | (Pen VK) 250-500 mg TID-QID before meals and at bedtime                                                 |
+|                   |                                                                                                         |
+|                   | (Low dose) 600,000-1.2 MU IM/day                                                                        |
+|                   |                                                                                                         |
+|                   | (High dose) Penicillin G: \> 20 MU IV daily                                                             |
++-------------------+---------------------------------------------------------------------------------------------------------+
 
 ::: aside
-[@silver2011]
-:::
-
-## Why has new antibiotic discovery faltered?
-
-Empirical screening of fermentation broth was remarkably successful during the early phases of antibiotic discovery
-
-![](images/lowfruit.png){fig-align="center" width="800"}
-
-## Rediscovery of the old antibiotics through empiric screens becomes the biggest challenge
-
-![](images/dereplication.png)
-
-## By the 1970’s antibiotic discovery began to shift from empirical to more “rationale” targeted approaches
-
-<br>
-
--   Attempts to overcome the increasing work of dereplication with fewer possibilities for novel compound discovery
-
--   Initially based on the recognition that most useful antibiotics discovered to date targeted the cell wall or protein synthesis
-
--   Leveraged a growing ability to clone genes and manipulate bacterial strains to enhance whole cell screening (or specific purified proteins) for specific bacterial targets
-
-## 1980s-1990s {.smaller}
-
-<br> <br>
-
-As novel antibiotic discovery began to falter, modification of existing antibiotic scaffolds (pharmacophore) to overcome resistance became a dominant strategy for bringing “new” antibiotics to market
-
-<br>
-
-![](images/cephalosporins.png){fig-align="center"}
-
-::: aside
-[@Wright2014]
-:::
-
-## β-lactamases
-
-![](images/beta-lactamases.png)
-
-## Macrolides and tetracyclines
-
-![](images/tetracyclines.png)
-
-::: aside
-[@Wright2014]
-:::
-
-## Fluoroquinolones
-
-![](images/fluoroquinolones.png)
-
-::: aside
-[@Wright2014]
-:::
-
-## Sequencing of *Haemophilus influenzae* <br>genome in 1995 {.smaller}
-
-::::: columns
-::: {.column width="50%"}
-![](images/science.png){width="400"}
-:::
-
-::: {.column width="50%"}
-![](images/sequencing.png){width="400"}
-:::
-:::::
-
-::: aside
-[@fleischmann1995]
-:::
-
-## ...but the crises still got worse {.smaller}
-
-![](images/void.png)
-
-::: aside
-[@silver2011]
-:::
-
-## Why has biotechnology failed to deliver new antibiotics?
-
-<br>
-
-![](images/payne.png)
-
-::: aside
-[@payne2007]
-:::
-
-## Problems with targeted antibiotic screening <br>in the 1990s and early 2000s {.smaller}
-
-<br> <br>
-
--   Bias to towards identification of single target inhibitors (high risk of rapid resistance development)
-
--   Biased towards human (eukaryotic) targets
-
-    -   Off target effects, higher toxicity potential
-
--   Chemical screening libraries- Mostly lipophilic compounds with limited structural diversity
-
-    -   Most drugs in libraries were highly flexible pharmacophores with few features found in antibacterial groups such as polar functional groups, complex ring systems, and chiral centers
-
--   Typical outcomes of whole cell screening: identification of detergent-like compounds or surface-active agents that affect integrity of bacterial cell membrane
-
--   Typical outcome of cell-free screens: discovery of compounds that would inhibit target protein but no activity against whole cells 
-
--   Screens rarely identified compounds with Gram-negative activity (because of excessive lipophilicity of screening library)
-
--   Biggest problem was probably the use of compound screening libraries that did not reflect the unique physicochemical property space occupied by known antibacterial agents
-
-## It is difficult to improve on nature {.smaller}
-
-<br> Densely deployed functional groups, allowing for maximal number of interactions with molecular targets, leads to exquisite selectivity for pathogen targets versus the host
-
-![](images/vancomycin.png){fig-align="center" width="700"}
-
-::: aside
-Interaction of vancomycin to the active site D-Ala-D-Ala of peptidoglycan (left panel) and D-Ala-D-Lactate (right panel)
-
-From: Thomas J. Dougherty and Michael J. Pucci. Antibiotic Discovery and Development (p. 824). Springer
-:::
-
-## Searching the wrong physiochemical space <br>for antibiotics
-
-<br>
-
-![](images/physiochemical.png)
-
-::: aside
-Grey dots represent compounds in screening libraries
-
-[@OShea2008]
-:::
-
-## Physiochemical space varies by pathogen
-
-![](images/logd.png)
-
-::: aside
-[@brown2014]
-:::
-
-## An especially tricky problem for gram-negatives
-
-![](images/gramnegative.png)
-
-## How should we move forward? \[.smaller\]
-
-::::: columns
-::: {.column width="50%"}
-Targeted screening
-
--   Specific inhibitors = rationale approach to develop still holds promise
-
--   Massive advances in synthetic biology (combinatorial biosynthesis, pathways engineering)
-
--   Development of new “antibiotic-like” chemical scaffolds for screening
-
--   Experience gained from 30 years of failure:
-
-    -   Knowledge of factors influencing bacterial cell penetration, transport, cellular efflux and protein binding is increasing rapidly- new rules similar to Lipinski 5 to help guide drug design
-
-    -   Use of more “druggable” libraries and combinatorial libraries that mimic natural products
-
-    -   Genetic modification of biosynthetic gene clusters in natural sources (i.e. actinomycetes)
-:::
-
-::: {.column width="50%"}
-Natural product screening
-
--   Billions of natural selection have optimized structures for protein interactions and antimicrobial activity
-
--   **Estimated that less than 1% of prokaryotic and 7% of fungal strains have been isolated and cultured**
-
--   Density and functionality in many natural products enables inhibition of multiple protein targets simultaneously
-
--   Complex structures make them poor substrates for metabolizing enzymes (superior pharmacokinetics and pharmacodynamics compared to small molecules)
-
--   More efficient and powerful methods for isolation and de-replication have been developed
-:::
-:::::
-
-## Alternative strategies
-
-<br>
-
-::::: columns
-::: {.column width="50%"}
-![](images/phage.jpg){width="600"}
-:::
-
-::: {.column width="50%"}
-<br> <br>
-
--   Antimicrobial peptides (AMPs)
-
--   Monoclonal antibodies (MAbs)
-
--   Antibody-antibiotic conjugates
-
--   Bacteriophages
-
--   Antisense-based antimicrobials (ASOs)
-
--   Vaccination/immunotherapy
-:::
-:::::
-
-## Remaining problem: Economics
-
-<br>
-
-![](images/failure.png)
-
-::: aside
-Source: Carb-X
+Source: Sanford Guide
 :::
 
 ## References
