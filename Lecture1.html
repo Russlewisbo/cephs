@@ -33,7 +33,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="Lecture1_files/libs/revealjs/dist/theme/quarto.css">
   <link href="Lecture1_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="Lecture1_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -382,29 +402,28 @@
 <p><br> <br></p>
 <table>
 <colgroup>
-<col style="width: 15%">
-<col style="width: 84%">
+<col style="width: 22%">
+<col style="width: 77%">
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><strong>Absorption</strong></td>
-<td>Penicillin VK (oral); bioavailibility 60-73% <br> Penicillin G (IV) <br>Benzathine penicillin (IM) <br></td>
+<td>Cefadroxil (90%); cephalexin (90%); cefazolin (IV only)</td>
 </tr>
 <tr class="even">
 <td><strong>Distribution</strong></td>
 <td><ul>
-<li><p>0.35 L/kg</p></li>
-<li><p>65% protein bound</p></li>
-<li><p>500% bile:serum</p></li>
-<li><p>5-10% CSF:blood (therapeutic for some pathogens)</p></li>
+<li><p>0.19-0.35 L/kg</p></li>
+<li><p>Protein binding: 20% cefadroxil, cephalexin; 73-87% cefazolin</p></li>
+<li><p>25% bile:serum; cefazolin:29-300%</p></li>
+<li><p>5-10% CSF:blood (possibly for cefazolin with higher doses)</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><strong>Metabolism</strong></td>
 <td><ul>
 <li><p>No metabolism</p></li>
-<li><p>t½ 0.5 hr</p></li>
-<li><p>Substrate of OAT transporters</p></li>
+<li><p>t½: Cefazolin (2 hrs); cefadroxil (1.5 hrs); cephalexin (1hr)</p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -417,9 +436,9 @@
 </tr>
 <tr class="even">
 <td><strong>Typical doses</strong></td>
-<td><p>(Pen VK) 250-500 mg TID-QID before meals and at bedtime</p>
-<p>(Low dose) 600,000-1.2 MU IM/day</p>
-<p>(High dose) Penicillin G: &gt; 20 MU IV daily</p></td>
+<td><p>Cefazolin: 1-2 gram IV every 8 hours</p>
+<p>Cefadroxil: 500-1000 mg BID</p>
+<p>Cephalexin 250-1000 mg QID</p></td>
 </tr>
 </tbody>
 </table>
@@ -427,13 +446,49 @@
 <aside><div>
 <p>Source: Sanford Guide</p>
 </div></aside></section>
-<section id="references" class="slide level2">
+<section id="avoid-cefazolin-for-cns-infections" class="slide level2">
+<h2>Avoid cefazolin for CNS infections?</h2>
+<p><br></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><a href="images/myth1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img data-src="images/myth1.png"></a></p>
+</div><div class="column" style="width:50%;">
+<p><a href="images/myth2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img data-src="images/myth2.png"></a></p>
+</div>
+</div>
+<div class=".aside">
+<p><span class="citation" data-cites="mccreary.etal_2023b">(<a href="#/references" role="doc-biblioref" onclick="">McCreary et al., 2023</a>)</span></p>
+</div>
+</section>
+<section id="why-this-myth-has-been-busted" class="slide level2">
+<h2>Why this myth has been busted?</h2>
+<p><br></p>
+<ul>
+<li>Earlier recommendations based on breakthrough reports with cephalothin and single point samples suggesting low CSF concentrations</li>
+<li>More recent data have documented attainment of therapeutic exposures with higher dose regimens:
+<ul>
+<li>A recent narrative review on the treatment of cefazolin for CNS infections (including 11 reports describing cefazolin treatment of spinal epidural abscesses in a total of 104 patients) recommends 2 g IV every 6 hours or a continuous infusion of 8–10 g daily instead of the traditional 1–2 g IV every 8 hours dosing scheme to optimize pharmacokinetic/pharmacodynamic properties</li>
+</ul></li>
+</ul>
+<div class=".aside">
+<p><span class="citation" data-cites="antosz.etal_2023a">(<a href="#/references" role="doc-biblioref" onclick="">Antosz et al., 2023</a>)</span></p>
+</div>
+</section>
+<section id="references" class="slide level2 smaller scrollable">
 <h2>References</h2>
 <p><br></p>
 <p><br></p>
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
+</div>
+</div>
+<div id="refs" class="references csl-bib-body" data-entry-spacing="0" role="list">
+<div id="ref-antosz.etal_2023a" class="csl-entry" role="listitem">
+Antosz K, Battle S, Chang J, Scheetz MH, Al-Hasan M, Bookstaver PB. Cefazolin in the treatment of central nervous system infections: A narrative review and recommendation. Pharmacotherapy 2023;43:85–95. <a href="https://doi.org/10.1002/phar.2750">https://doi.org/10.1002/phar.2750</a>.
+</div>
+<div id="ref-mccreary.etal_2023b" class="csl-entry" role="listitem">
+McCreary EK, Johnson MD, Jones TM, Spires SS, Davis AE, Dyer AP, et al. Antibiotic myths for the infectious diseases clinician. Clinical Infectious Diseases 2023;77:1120–5. <a href="https://doi.org/10.1093/cid/ciad357">https://doi.org/10.1093/cid/ciad357</a>.
 </div>
 </div>
 </section>
@@ -828,7 +883,7 @@
       }
     });
     </script>
-    <script>var lightboxQuarto = GLightbox({"descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox","closeEffect":"zoom"});
+    <script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","selector":".lightbox","closeEffect":"zoom","openEffect":"zoom"});
     window.onload = () => {
       lightboxQuarto.on('slide_before_load', (data) => {
         const { slideIndex, slideNode, slideConfig, player, trigger } = data;
