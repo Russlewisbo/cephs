@@ -53,6 +53,22 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 :::
 :::::
 
+## Mechanism of action of cephalosporins: <br> Same as β-lactams
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![Inhibition of transpeptidase (PBP)](https://i.makeagif.com/media/4-07-2017/l7_PRO.gif)
+:::
+
+::: {.column width="50%"}
+![Lysis of growing bacterial cells](https://i.makeagif.com/media/10-05-2017/e3c7kf.gif)
+:::
+:::::
+
+<br>
+
 ## First generation cephalosporins; <br> derivatives of 7-ACA {.smaller}
 
 ![](images/1gen.png){fig-align="center" width="400"}
@@ -68,31 +84,31 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br> <br>
 
-+-------------------+--------------------------------------------------------------------+
-| **Absorption**    | Cefadroxil (90%); cephalexin (90%); cefazolin (IV only)            |
-+-------------------+--------------------------------------------------------------------+
-| **Distribution**  | -   0.19-0.35 L/kg                                                 |
-|                   |                                                                    |
-|                   | -   Protein binding: 20% cefadroxil, cephalexin; 73-87% cefazolin  |
-|                   |                                                                    |
-|                   | -   25% bile:serum; cefazolin:29-300%                              |
-|                   |                                                                    |
-|                   | -   5-10% CSF:blood (possibly for cefazolin with higher doses)     |
-+-------------------+--------------------------------------------------------------------+
-| **Metabolism**    | -   No metabolism                                                  |
-|                   |                                                                    |
-|                   | -   t½: Cefazolin (2 hrs); cefadroxil (1.5 hrs); cephalexin (1hr)  |
-+-------------------+--------------------------------------------------------------------+
-| **Elimination**   | Renal 100%, impaired by probenicid                                 |
-+-------------------+--------------------------------------------------------------------+
-| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                            |
-+-------------------+--------------------------------------------------------------------+
-| **Typical doses** | Cefazolin: 1-2 gram IV every 8 hours                               |
-|                   |                                                                    |
-|                   | Cefadroxil: 500-1000 mg BID                                        |
-|                   |                                                                    |
-|                   | Cephalexin 250-1000 mg QID                                         |
-+-------------------+--------------------------------------------------------------------+
++-------------------+-------------------------------------------------------------------+
+| **Absorption**    | Cefadroxil (90%); cephalexin (90%); cefazolin (IV only)           |
++-------------------+-------------------------------------------------------------------+
+| **Distribution**  | -   0.19-0.35 L/kg                                                |
+|                   |                                                                   |
+|                   | -   Protein binding: 20% cefadroxil, cephalexin; 73-87% cefazolin |
+|                   |                                                                   |
+|                   | -   25% bile:serum; cefazolin:29-300%                             |
+|                   |                                                                   |
+|                   | -   5-10% CSF:blood (possibly for cefazolin with higher doses)    |
++-------------------+-------------------------------------------------------------------+
+| **Metabolism**    | -   No metabolism                                                 |
+|                   |                                                                   |
+|                   | -   t½: Cefazolin (2 hrs); cefadroxil (1.5 hrs); cephalexin (1hr) |
++-------------------+-------------------------------------------------------------------+
+| **Elimination**   | Renal 100%, impaired by probenicid                                |
++-------------------+-------------------------------------------------------------------+
+| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                           |
++-------------------+-------------------------------------------------------------------+
+| **Typical doses** | Cefazolin: 1-2 gram IV every 8 hours                              |
+|                   |                                                                   |
+|                   | Cefadroxil: 500-1000 mg BID                                       |
+|                   |                                                                   |
+|                   | Cephalexin 250-1000 mg QID                                        |
++-------------------+-------------------------------------------------------------------+
 
 ::: aside
 Source: Sanford Guide
@@ -112,7 +128,7 @@ Source: Sanford Guide
 :::
 :::::
 
-::: .aside
+::: aside
 [@mccreary.etal_2023b]
 :::
 
@@ -120,13 +136,33 @@ Source: Sanford Guide
 
 <br>
 
--   Earlier recommendations based on breakthrough reports with cephalothin and single point samples suggesting low CSF concentrations
--   More recent data have documented attainment of therapeutic exposures with higher dose regimens:
-    -   A recent narrative review on the treatment of cefazolin for CNS infections (including 11 reports describing cefazolin treatment of spinal epidural abscesses in a total of 104 patients) recommends 2 g IV every 6 hours or a continuous infusion of 8–10 g daily instead of the traditional 1–2 g IV every 8 hours dosing scheme to optimize pharmacokinetic/pharmacodynamic properties
+-   **Earlier recommendations based on breakthrough reports with cephalothin and single point samples suggesting low CSF concentrations**
+-   **More recent data have documented attainment of therapeutic exposures with higher dose regimens:**
+    -   A recent narrative review on the treatment of cefazolin for CNS infections (including 11 reports describing cefazolin treatment of spinal epidural abscesses in a total of 104 patients) recommends [2 g IV every 6 hours or a continuous infusion of 8–10 g daily]{bg-color="#ffe536"} instead of the traditional 1–2 g IV every 8 hours dosing scheme to optimize pharmacokinetic/pharmacodynamic properties
 
-::: .aside
+::: aside
 [@antosz.etal_2023a]
 :::
+
+## Another cefazolin myth busted? <br> penicillin cross-allergy {.smaller}
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/myth3.png){width="500"}
+:::
+
+::: {.column width="50%"}
+![](images/myth4.png){width="600"}
+:::
+:::::
+
+::: aside
+[@mccreary.etal_2023b]
+:::
+
+## Second generation cephalosporins
 
 ## References
 
