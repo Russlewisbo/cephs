@@ -162,7 +162,71 @@ Source: Sanford Guide
 [@mccreary.etal_2023b]
 :::
 
-## Second generation cephalosporins
+## Second generation cephalosporins {.smaller}
+
+![](images/2ndgen.png){fig-align="center"}
+
+## Spectrum of activity {.smaller}
+
+<br>
+
+![](images/spectrum.png){fig-align="center"}
+
+::: aside
+Source. Sanford's Guide
+:::
+
+## Pharmacokinetics: <br> {.smaller}
+
+## Representative 2nd generation cephalosporins {.smaller}
+
+<br> <br>
+
++-------------------+------------------------------------------------------------------------+
+| **Absorption**    | Cefuroxime (52%), cefprozil (95%), cefaclor (93%)                      |
++-------------------+------------------------------------------------------------------------+
+| **Distribution**  | -   0.15-0.35 L/kg                                                     |
+|                   |                                                                        |
+|                   | -   Protein binding: 36-50%                                            |
+|                   |                                                                        |
+|                   | -   25% bile:serum; cefazolin:29-300%                                  |
+|                   |                                                                        |
+|                   | -   5-10% CSF:blood (possibly for cefazolin with higher doses)         |
++-------------------+------------------------------------------------------------------------+
+| **Metabolism**    | -   No metabolism                                                      |
+|                   |                                                                        |
+|                   | -   t½: Ccefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr) |
++-------------------+------------------------------------------------------------------------+
+| **Elimination**   | Renal 100%                                                             |
++-------------------+------------------------------------------------------------------------+
+| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                                |
++-------------------+------------------------------------------------------------------------+
+| **Typical doses** | cefaclor: 250-500 mg TID                                               |
+|                   |                                                                        |
+|                   | cefuroxime: 250-500 BID                                                |
+|                   |                                                                        |
+|                   | cefotetan: 1-2 gram IV q12h                                            |
++-------------------+------------------------------------------------------------------------+
+
+::: aside
+Source: Sanford Guide
+:::
+
+## 2nd generation cephalosporins: <br> What is their role? {.smaller}
+
+-   Cefotetan- GI surgical prophylaxis (resistance is increasing in *B. fragilis*)
+
+-   Upper respiratory tract infections, CAP, gonorrhea,...but these are "in between" antibiotics and often passed over for better options
+
+## 3rd generation cephalosporins {.smaller}
+
+<br>
+
+![](images/3rdgen.png){fig-align="center" width="400"}
+
+## 3rd generation cephalosporins <br> spectrum of activity <br> <br>
+
+![](images/3rdgenspectrum.png){fig-align="center"}
 
 ## References
 
