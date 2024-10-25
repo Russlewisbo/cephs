@@ -13,7 +13,7 @@
 <script src="Lecture1_files/libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="Lecture1_files/libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="Lecture1_files/libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.552">
+  <meta name="generator" content="quarto-1.5.54">
 
   <title>lecture1</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -378,8 +378,7 @@
 <li>After he failed to find support from Italian government, he sent the fungus to Howard Florey at Oxford</li>
 <li>1962: Isolation of cephalosporin C</li>
 </ul>
-</div>
-</div>
+</div></div>
 </section>
 <section id="mechanism-of-action-of-cephalosporins-same-as-β-lactams" class="slide level2">
 <h2>Mechanism of action of cephalosporins: <br> Same as β-lactams</h2>
@@ -388,19 +387,18 @@
 <div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><a href="https://i.makeagif.com/media/4-07-2017/l7_PRO.gif" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-gallery="quarto-lightbox-gallery-3" title="Inhibition of transpeptidase (PBP)"><img data-src="https://i.makeagif.com/media/4-07-2017/l7_PRO.gif" alt="Inhibition of transpeptidase (PBP)"></a></p>
+<p><a href="https://i.makeagif.com/media/4-07-2017/l7_PRO.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Inhibition of transpeptidase (PBP)"><img data-src="https://i.makeagif.com/media/4-07-2017/l7_PRO.gif" alt="Inhibition of transpeptidase (PBP)"></a></p>
 <figcaption>Inhibition of transpeptidase (PBP)</figcaption>
 </figure>
 </div>
 </div><div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><a href="https://i.makeagif.com/media/10-05-2017/e3c7kf.gif" class="lightbox" data-glightbox="description: .lightbox-desc-4" data-gallery="quarto-lightbox-gallery-4" title="Lysis of growing bacterial cells"><img data-src="https://i.makeagif.com/media/10-05-2017/e3c7kf.gif" alt="Lysis of growing bacterial cells"></a></p>
+<p><a href="https://i.makeagif.com/media/10-05-2017/e3c7kf.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Lysis of growing bacterial cells"><img data-src="https://i.makeagif.com/media/10-05-2017/e3c7kf.gif" alt="Lysis of growing bacterial cells"></a></p>
 <figcaption>Lysis of growing bacterial cells</figcaption>
 </figure>
 </div>
-</div>
-</div>
+</div></div>
 <p><br></p>
 </section>
 <section id="first-generation-cephalosporins-derivatives-of-7-aca" class="slide level2 smaller">
@@ -422,7 +420,7 @@
 <section id="pharmacokinetics-1st-generation-cephalosporins" class="slide level2 smaller">
 <h2>Pharmacokinetics: 1st generation cephalosporins</h2>
 <p><br> <br></p>
-<table>
+<table class="caption-top">
 <colgroup>
 <col style="width: 22%">
 <col style="width: 77%">
@@ -476,8 +474,7 @@
 <p><a href="images/myth1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img data-src="images/myth1.png"></a></p>
 </div><div class="column" style="width:50%;">
 <p><a href="images/myth2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7"><img data-src="images/myth2.png"></a></p>
-</div>
-</div>
+</div></div>
 
 <aside><div>
 <p><span class="citation" data-cites="mccreary.etal_2023b">(<a href="#/references" role="doc-biblioref" onclick="">McCreary et al., 2023</a>)</span></p>
@@ -504,8 +501,7 @@
 <p><a href="images/myth3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-8"><img data-src="images/myth3.png" width="500"></a></p>
 </div><div class="column" style="width:50%;">
 <p><a href="images/myth4.png" class="lightbox" data-gallery="quarto-lightbox-gallery-9"><img data-src="images/myth4.png" width="600"></a></p>
-</div>
-</div>
+</div></div>
 
 <aside><div>
 <p><span class="citation" data-cites="mccreary.etal_2023b">(<a href="#/references" role="doc-biblioref" onclick="">McCreary et al., 2023</a>)</span></p>
@@ -521,10 +517,6 @@
 <div class="footer footer-default">
 
 </div>
-</div>
-<div class="hidden" aria-hidden="true">
-<span class="glightbox-desc lightbox-desc-3">Inhibition of transpeptidase (PBP)</span>
-<span class="glightbox-desc lightbox-desc-4">Lysis of growing bacterial cells</span>
 </div>
 <div id="refs" class="references csl-bib-body" data-entry-spacing="0" role="list">
 <div id="ref-antosz.etal_2023a" class="csl-entry" role="listitem">
@@ -782,18 +774,7 @@ McCreary EK, Johnson MD, Jones TM, Spires SS, Davis AE, Dyer AP, et al. Antibiot
         }
         return false;
       }
-      const clipboard = new window.ClipboardJS('.code-copy-button', {
-        text: function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-        }
-      });
-      clipboard.on('success', function(e) {
+      const onCopySuccess = function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -825,7 +806,29 @@ McCreary EK, Johnson MD, Jones TM, Spires SS, Davis AE, Dyer AP, et al. Antibiot
         }, 1000);
         // clear code selection
         e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
           var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -833,7 +836,7 @@ McCreary EK, Johnson MD, Jones TM, Spires SS, Davis AE, Dyer AP, et al. Antibiot
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
         // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
         for (var i=0; i<links.length; i++) {
           const link = links[i];
           if (!isInternal(link.href)) {
@@ -926,30 +929,37 @@ McCreary EK, Johnson MD, Jones TM, Spires SS, Davis AE, Dyer AP, et al. Antibiot
       }
     });
     </script>
-    <script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","selector":".lightbox","descPosition":"bottom","loop":false,"openEffect":"zoom"});
-    window.onload = () => {
-      lightboxQuarto.on('slide_before_load', (data) => {
-        const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-        const href = trigger.getAttribute('href');
-        if (href !== null) {
-          const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-          if (imgEl !== null) {
-            const srcAttr = imgEl.getAttribute("src");
-            if (srcAttr && srcAttr.startsWith("data:")) {
-              slideConfig.href = srcAttr;
-            }
-          }
-        } 
-      });
-
-      lightboxQuarto.on('slide_after_load', (data) => {
-        const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(slideNode);
+    <script>var lightboxQuarto = GLightbox({"openEffect":"zoom","selector":".lightbox","loop":false,"closeEffect":"zoom","descPosition":"bottom"});
+    (function() {
+      let previousOnload = window.onload;
+      window.onload = () => {
+        if (previousOnload) {
+          previousOnload();
         }
-      });
-
-    };
+        lightboxQuarto.on('slide_before_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          const href = trigger.getAttribute('href');
+          if (href !== null) {
+            const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+            if (imgEl !== null) {
+              const srcAttr = imgEl.getAttribute("src");
+              if (srcAttr && srcAttr.startsWith("data:")) {
+                slideConfig.href = srcAttr;
+              }
+            }
+          } 
+        });
+      
+        lightboxQuarto.on('slide_after_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(slideNode);
+          }
+        });
+      
+      };
+      
+    })();
               </script>
     
 
