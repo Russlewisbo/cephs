@@ -11,7 +11,7 @@ format:
     scrollable: true
     slide-number: true
     incremental: false
-    multiplex: true
+    multiplex: false
     chalkboard: true
     theme: [default, custom.scss]
     filters:
@@ -176,9 +176,8 @@ Source: Sanford Guide
 Source. Sanford's Guide
 :::
 
-## Pharmacokinetics: <br> {.smaller}
 
-## Representative 2nd generation cephalosporins {.smaller}
+## Pharmacokinetics of representative 2nd generation cephalosporins {.smaller}
 
 <br> <br>
 
@@ -195,7 +194,7 @@ Source. Sanford's Guide
 +-------------------+------------------------------------------------------------------------+
 | **Metabolism**    | -   No metabolism                                                      |
 |                   |                                                                        |
-|                   | -   t½: Ccefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr) |
+|                   | -   t½:cCefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr) |
 +-------------------+------------------------------------------------------------------------+
 | **Elimination**   | Renal 100%                                                             |
 +-------------------+------------------------------------------------------------------------+
@@ -212,7 +211,8 @@ Source. Sanford's Guide
 Source: Sanford Guide
 :::
 
-## 2nd generation cephalosporins: <br> What is their role? {.smaller}
+## 2nd generation cephalosporins: <br> What is their role? 
+<br>
 
 -   Cefotetan- GI surgical prophylaxis (resistance is increasing in *B. fragilis*)
 

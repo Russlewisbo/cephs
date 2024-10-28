@@ -13,7 +13,7 @@
 <script src="Lecture1_files/libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="Lecture1_files/libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="Lecture1_files/libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.5.54">
+  <meta name="generator" content="quarto-1.5.57">
 
   <title>lecture1</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -526,11 +526,8 @@
 <aside><div>
 <p>Source. Sanford’s Guide</p>
 </div></aside></section>
-<section id="pharmacokinetics" class="slide level2 smaller">
-<h2>Pharmacokinetics: <br></h2>
-</section>
-<section id="representative-2nd-generation-cephalosporins" class="slide level2 smaller">
-<h2>Representative 2nd generation cephalosporins</h2>
+<section id="pharmacokinetics-of-representative-2nd-generation-cephalosporins" class="slide level2 smaller">
+<h2>Pharmacokinetics of representative 2nd generation cephalosporins</h2>
 <p><br> <br></p>
 <table class="caption-top">
 <colgroup>
@@ -555,7 +552,7 @@
 <td><strong>Metabolism</strong></td>
 <td><ul>
 <li><p>No metabolism</p></li>
-<li><p>t½: Ccefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr)</p></li>
+<li><p>t½:cCefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr) |</p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -578,8 +575,9 @@
 <aside><div>
 <p>Source: Sanford Guide</p>
 </div></aside></section>
-<section id="nd-generation-cephalosporins-what-is-their-role" class="slide level2 smaller">
+<section id="nd-generation-cephalosporins-what-is-their-role" class="slide level2">
 <h2>2nd generation cephalosporins: <br> What is their role?</h2>
+<p><br></p>
 <ul>
 <li><p>Cefotetan- GI surgical prophylaxis (resistance is increasing in <em>B. fragilis</em>)</p></li>
 <li><p>Upper respiratory tract infections, CAP, gonorrhea,…but these are “in between” antibiotics and often passed over for better options</p></li>
@@ -631,8 +629,6 @@ McCreary EK, Johnson MD, Jones TM, Spires SS, Davis AE, Dyer AP, et al. Antibiot
   <script src="Lecture1_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
   <script src="Lecture1_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
   <script src="Lecture1_files/libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
-  <script src="Lecture1_files/libs/revealjs/plugin/multiplex/socket.io.js"></script>
-  <script src="Lecture1_files/libs/revealjs/plugin/multiplex/multiplex.js"></script>
   <script src="Lecture1_files/libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
@@ -655,7 +651,6 @@ McCreary EK, Johnson MD, Jones TM, Spires SS, Davis AE, Dyer AP, et al. Antibiot
 'autoAnimateUnmatched': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":true},
-'multiplex': {"secret":null,"id":"0cfc94073daa8b90","url":"https://reveal-multiplex.glitch.me/"},
 'smaller': false,
  
         // Display controls in the bottom right corner
@@ -829,7 +824,7 @@ McCreary EK, Johnson MD, Jones TM, Spires SS, Davis AE, Dyer AP, et al. Antibiot
         plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
 
           RevealMath,
-          
+          RevealNotes,
           RevealSearch,
           RevealZoom
         ]
@@ -1022,7 +1017,7 @@ McCreary EK, Johnson MD, Jones TM, Spires SS, Davis AE, Dyer AP, et al. Antibiot
       }
     });
     </script>
-    <script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","loop":false,"descPosition":"bottom","openEffect":"zoom"});
+    <script>var lightboxQuarto = GLightbox({"loop":false,"selector":".lightbox","closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom"});
     (function() {
       let previousOnload = window.onload;
       window.onload = () => {
