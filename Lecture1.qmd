@@ -176,42 +176,42 @@ Source: Sanford Guide
 Source. Sanford's Guide
 :::
 
-
 ## Pharmacokinetics of representative 2nd generation cephalosporins {.smaller}
 
 <br> <br>
 
-+-------------------+------------------------------------------------------------------------+
-| **Absorption**    | Cefuroxime (52%), cefprozil (95%), cefaclor (93%)                      |
-+-------------------+------------------------------------------------------------------------+
-| **Distribution**  | -   0.15-0.35 L/kg                                                     |
-|                   |                                                                        |
-|                   | -   Protein binding: 36-50%                                            |
-|                   |                                                                        |
-|                   | -   25% bile:serum; cefazolin:29-300%                                  |
-|                   |                                                                        |
-|                   | -   5-10% CSF:blood (possibly for cefazolin with higher doses)         |
-+-------------------+------------------------------------------------------------------------+
-| **Metabolism**    | -   No metabolism                                                      |
-|                   |                                                                        |
-|                   | -   t½:cCefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr) |
-+-------------------+------------------------------------------------------------------------+
-| **Elimination**   | Renal 100%                                                             |
-+-------------------+------------------------------------------------------------------------+
-| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                                |
-+-------------------+------------------------------------------------------------------------+
-| **Typical doses** | cefaclor: 250-500 mg TID                                               |
-|                   |                                                                        |
-|                   | cefuroxime: 250-500 BID                                                |
-|                   |                                                                        |
-|                   | cefotetan: 1-2 gram IV q12h                                            |
-+-------------------+------------------------------------------------------------------------+
++-------------------+--------------------------------------------------------------------------+
+| **Absorption**    | Cefuroxime (52%), cefprozil (95%), cefaclor (93%)                        |
++-------------------+--------------------------------------------------------------------------+
+| **Distribution**  | -   0.15-0.35 L/kg                                                       |
+|                   |                                                                          |
+|                   | -   Protein binding: 36-50%                                              |
+|                   |                                                                          |
+|                   | -   25% bile:serum; cefazolin:29-300%                                    |
+|                   |                                                                          |
+|                   | -   5-10% CSF:blood (possibly for cefazolin with higher doses)           |
++-------------------+--------------------------------------------------------------------------+
+| **Metabolism**    | -   No metabolism                                                        |
+|                   |                                                                          |
+|                   | -   t½:cCefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr) \| |
++-------------------+--------------------------------------------------------------------------+
+| **Elimination**   | Renal 100%                                                               |
++-------------------+--------------------------------------------------------------------------+
+| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                                  |
++-------------------+--------------------------------------------------------------------------+
+| **Typical doses** | cefaclor: 250-500 mg TID                                                 |
+|                   |                                                                          |
+|                   | cefuroxime: 250-500 BID                                                  |
+|                   |                                                                          |
+|                   | cefotetan: 1-2 gram IV q12h                                              |
++-------------------+--------------------------------------------------------------------------+
 
 ::: aside
 Source: Sanford Guide
 :::
 
-## 2nd generation cephalosporins: <br> What is their role? 
+## 2nd generation cephalosporins: <br> What is their role?
+
 <br>
 
 -   Cefotetan- GI surgical prophylaxis (resistance is increasing in *B. fragilis*)
