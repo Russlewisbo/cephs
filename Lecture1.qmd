@@ -306,6 +306,18 @@ Source: Sanford Guide
 [@fernandez-hidalgo.etal_2013]
 :::
 
+## β-lactamases: Ambler classification {.smaller}
+
+![](images/Ambler.png){fig-align="center" width="800"}
+
+## Ceftazidime-avibactam
+
+![](images/carbapenemase_spectrum.png){fig-align="center"}
+
+::: .aside
+[@tamma.hsu_2019] <br> Green, susceptibility anticipated to be \>80%; yellow, susceptibility antic- ipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be \<30%.
+:::
+
 ## 4th and 5th generation cephalosporins
 
 ## References
