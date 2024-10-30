@@ -232,6 +232,7 @@ Source: Sanford Guide
 
 <br>
 
+<<<<<<< HEAD
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
 | **Absorption**    | cefpodoxime (56%); cefexime (50%); cefoperazone (IV); ceftazidime (IV); cefotaxime (IV); ceftriaxone (IV, IM)                                                                               |   |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
@@ -253,12 +254,99 @@ Source: Sanford Guide
 |                   |                                                                                                                                                                                             |   |
 |                   | Cephalexin 250-1000 mg QID                                                                                                                                                                  |   |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
+=======
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+
+| **Absorption**    | cefpodoxime (56%); cefexime (50%); cefoperazone (IV); ceftazidime (IV); cefotaxime (IV); ceftriaxone (IV, IM)                                                                               |       |
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+
+| **Distribution**  | -   0.15-0.93 L/kg                                                                                                                                                                          |       |
+|                   |                                                                                                                                                                                             |       |
+|                   | -   Protein binding: \<10% ceftazidime; 30-70% cefotaxime, cefpodoxime, cefixime; \> 85-90% cefoperazone, ceftriaxone                                                                       |       |
+|                   |                                                                                                                                                                                             |       |
+|                   | -   CSF/Blood \> 10%: cefotaxime, ceftazidime; ceftriaxone,                                                                                                                                 |       |
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+
+| **Metabolism**    | -   No metabolism                                                                                                                                                                           |       |
+|                   |                                                                                                                                                                                             |       |
+|                   | -   t½: cefotoxime, ceftazidim, cefoperazone; 1.5-2 hr; cefpodoxime 2.5 hr; cefixime 3hr; ceftriaxone 8 hr;                                                                                 |       |
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+
+| **Elimination**   | All renal except ceftriaxone (biliary) and cefoperazone                                                                                                                                     |       |
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+
+| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                                                                                                                                                     |       |
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+
+| **Typical doses** | Cefotoxime 2 grams IV q8h; cefpodoxime 200-400 mg BID; ceftazidime 1-2 gram IV q8h or 15 mg/kg LD then 6 G IV over 24h; ceftriaxone 1-2 grams IV 24h (q12h meningitis); cefexime 400 mg BID |       |
+|                   |                                                                                                                                                                                             |       |
+|                   | Cephalexin 250-1000 mg QID                                                                                                                                                                  |       |
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+
+>>>>>>> 72a0a465c2d60c1efaa4f0c7b16312c2955e07d7
 
 ::: aside
 Source: Sanford Guide
 :::
 
+<<<<<<< HEAD
 ## Appropriate dosing of ceftriaxone
+=======
+## 3rd generation cephalosporins: <br> Role in treatment
+
+-   Extended gram-negative bacteria coverage, often used to treat gram-negative infections resistant to the first- and second-generation or other β-lactam antimicrobials
+-   Ceftriaxone and cefotaxime penetrate the blood-brain barrier and cover bacteria in the cerebral spinal fluid,
+    -   Ceftriaxone can be prescribed to treat meningitis caused by *H influenzae*, *Neisseria meningitidis*, or *Streptococcus pneumoniae.* 
+    -   Ceftriaxone is also used to treat gonorrhea and disseminated Lyme disease.
+    -   Ceftazidime has *Pseudomonas aeruginosa* coverage
+
+## Key issues with ceftriaxone dosing {.small}
+
+<br>
+
+-   Often avoided in neonates, because of displacement of bilirubin (cefotaxime used instead)
+-   2 gram q24h dose has largely replaced 1 gram dose for most indications (obesity, safety, improved PK/PD target attainment in critically ill)
+    -   Risk for low exposure: low albumin, augmented renal clearance, sepsis
+    -   Protein binding a key component that slows ceftriaxone clearance
+-   Meningitis dose: 2 gram IV q12h
+
+## Higher failure rates of 2nd and <br> 3rd generation cephalosporins for MSSA?  {.small}
+
+<br>
+
+-   MSSA MIC breakpoints historically have been too high (MIC ≤ 8) vs. gram negatives (MIC ≤ 1, set to address ESBL test problems)
+    -   Oxacillin and cefoxitin susceptibility are probably not a good predictor of ceftriaxone susceptibility among MSSA
+-   In vitro, killing by ceftriaxone (esp. in presence of albumin) is much slower then anti-staphylococcal PCNs
+-   In clinical PK/PD analysis, ceftriaxone 2 grams daily had a clinical failure rate of 55%, which was almost the same as vancomycin 1 gram Q12
+    -   Ceftriaxone 2 gram q12 needed to give the best chance of covering MSSA
+    -   OPAT convenience: cefazolin 2 gram q12h or daptomycin 6-8 mg/kg once daily
+-   Conflicting observational clinical studies whether ceftriaxone is inferior
+
+::: .aside
+[@paul.etal_2011; @zelenitsky.etal_2018]
+:::
+
+## Ceftriaxone for enterococcal endocarditis? {.smaller}
+
+-   Aminoglycoside sparing regimens for *E. faecalis* endocarditis: Ceftriaxone + ampicillin
+    -   *E. faecalis* has 5 PBPs
+    -   At high doses, ampicillin will bind PBP 1,4,5 and ceftriaxone will bind PBPs 2,3
+    -   Binding all 5 PBP creates remarkable synergy
+    -   Need to use 2 gram IV q12h of ceftriaxone
+
+![](images/Screenshot 2024-10-29 at 17.17.34.png){width="1000"}
+
+::: .aside
+[@fernandez-hidalgo.etal_2013]
+:::
+
+## β-lactamases: Ambler classification {.smaller}
+
+![](images/Ambler.png){fig-align="center" width="800"}
+
+## Ceftazidime-avibactam
+
+![](images/carbapenemase_spectrum.png){fig-align="center"}
+
+::: .aside
+[@tamma.hsu_2019] <br> Green, susceptibility anticipated to be \>80%; yellow, susceptibility antic- ipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be \<30%.
+:::
+
+## 4th and 5th generation cephalosporins
+>>>>>>> 72a0a465c2d60c1efaa4f0c7b16312c2955e07d7
 
 ## References
 
