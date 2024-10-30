@@ -243,13 +243,13 @@ Source: Sanford Guide
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
 | **Metabolism**    | -   No metabolism                                                                                                                                                                           |   |
 |                   |                                                                                                                                                                                             |   |
-|                   | -   t½: cefotoxime, ceftazidim, cefoperazone; 1.5-2 hr; cefpodoxime 2.5 hr; cefixime 3hr; ceftriaxone 8 hr;                                                                                 |   |
+|                   | -   t½: cefotaxime, ceftazidime, cefoperazone; 1.5-2 hr; cefpodoxime 2.5 hr; cefixime 3hr; ceftriaxone 8 hr;                                                                                |   |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
-| **Elimination**   | All renal except ceftriaxone (biliary) and cefoperazone                                                                                                                                     |   |
+| **Elimination**   | All renal except: ceftriaxone and cefoperazone undergo primarily biliary elimination                                                                                                        |   |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
 | **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                                                                                                                                                     |   |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
-| **Typical doses** | Cefotoxime 2 grams IV q8h; cefpodoxime 200-400 mg BID; ceftazidime 1-2 gram IV q8h or 15 mg/kg LD then 6 G IV over 24h; ceftriaxone 1-2 grams IV 24h (q12h meningitis); cefexime 400 mg BID |   |
+| **Typical doses** | Cefotaxime 2 grams IV q8h; cefpodoxime 200-400 mg BID; ceftazidime 1-2 gram IV q8h or 15 mg/kg LD then 6 G IV over 24h; ceftriaxone 1-2 grams IV 24h (q12h meningitis); cefixime 400 mg BID |   |
 |                   |                                                                                                                                                                                             |   |
 |                   | Cephalexin 250-1000 mg QID                                                                                                                                                                  |   |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
@@ -257,6 +257,8 @@ Source: Sanford Guide
 ::: aside
 Source: Sanford Guide
 :::
+
+## Appropriate dosing of ceftriaxone
 
 ## References
 
