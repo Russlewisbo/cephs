@@ -254,13 +254,9 @@ Source: Sanford Guide
 |                   | Cephalexin 250-1000 mg QID                                                                                                                                                                  |        |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+
 
-======= +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **Absorption** \| cefpodoxime (56%); cefexime (50%); cefoperazone (IV); ceftazidime (IV); cefotaxime (IV); ceftriaxone (IV, IM) \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **Distribution** \| - 0.15-0.93 L/kg \| \| \| \| \| \| \| \| - Protein binding: \<10% ceftazidime; 30-70% cefotaxime, cefpodoxime, cefixime; \> 85-90% cefoperazone, ceftriaxone \| \| \| \| \| \| \| \| - CSF/Blood \> 10%: cefotaxime, ceftazidime; ceftriaxone, \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **Metabolism** \| - No metabolism \| \| \| \| \| \| \| \| - t½: cefotoxime, ceftazidim, cefoperazone; 1.5-2 hr; cefpodoxime 2.5 hr; cefixime 3hr; ceftriaxone 8 hr; \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **Elimination** \| All renal except ceftriaxone (biliary) and cefoperazone \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **PK:PD target** \| ≥ 40-50% *f*Time~\>MIC~ \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **Typical doses** \| Cefotoxime 2 grams IV q8h; cefpodoxime 200-400 mg BID; ceftazidime 1-2 gram IV q8h or 15 mg/kg LD then 6 G IV over 24h; ceftriaxone 1-2 grams IV 24h (q12h meningitis); cefexime 400 mg BID \| \| \| \| \| \| \| \| Cephalexin 250-1000 mg QID \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+
-
 ::: aside
 Source: Sanford Guide
 :::
-
-# \## Appropriate dosing of ceftriaxone
 
 ## 3rd generation cephalosporins: <br> Role in treatment
 
@@ -328,10 +324,17 @@ Source: Sanford Guide
 [@tamma.hsu_2019] <br> Green, susceptibility anticipated to be \>80%; yellow, susceptibility antic- ipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be \<30%.
 :::
 
-## 4th,5th and 6th generation cephalosporins {fig-align="center"}
+## 4th, 5th and 6th generation cephalosporins {fig-align="center"}
+
 <br>
 
-![](images/5thand6th.png){fig-align="center" width="800"}
+![](images/5th%20and6th.png){fig-align="center" width="600"}
+
+## Spectrum of activity
+
+<br>
+
+![](images/specterum5thand6th.png){fig-align="center"}
 
 ## References
 
