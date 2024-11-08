@@ -1,7 +1,6 @@
 ---
 format:
   revealjs:
-    spotlight: true
     touch: true
     controls: true
     pointer: true
@@ -260,8 +259,6 @@ Source: Sanford Guide
 Source: Sanford Guide
 :::
 
-# \## Appropriate dosing of ceftriaxone
-
 ## 3rd generation cephalosporins: <br> Role in treatment
 
 -   Extended gram-negative bacteria coverage, often used to treat gram-negative infections resistant to the first- and second-generation or other β-lactam antimicrobials
@@ -296,7 +293,7 @@ Source: Sanford Guide
 [@paul.etal_2011; @zelenitsky.etal_2018]
 :::
 
-## Ceftriaxone for enterococcal endocarditis? {.smaller}
+## Ceftriaxone for enterococcal endocarditis {.smaller}
 
 -   Aminoglycoside sparing regimens for *E. faecalis* endocarditis: Ceftriaxone + ampicillin
     -   *E. faecalis* has 5 PBPs
@@ -329,9 +326,10 @@ Source: Sanford Guide
 :::
 
 ## 4th,5th and 6th generation cephalosporins {fig-align="center"}
+
 <br>
 
-![](images/5thand6th.png){fig-align="center" width="800"}
+## Spectrum of activity
 
 ## References
 
