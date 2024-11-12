@@ -336,8 +336,64 @@ Source: Sanford Guide
 
 ![](images/specterum5thand6th.png){fig-align="center"}
 
-## References
+## Cefiderocol
 
 <br>
+
+![](images/cefiderocol.png){fig-align="center" width="600"}
+
+::: aside
+Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
+:::
+
+## Cefiderocol ( ): <br> How does it overcome resistance?
+
+<br>
+
+![](images/cefiderocol2.png){fig-align="center"}
+
+:::: aside
+::: aside
+Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
+:::
+::::
+
+## Pharmacokinetics of 4-6th gen cephalosporins {style=".smaller"}
+
+<br>
+
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **Absorption**    | All intravenous formulations                                                                     |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **Distribution**  | -   0.19-0.3 L/kg                                                                                |          |
+|                   | -   protein binding 20-40%                                                                       |          |
+|                   | -   CSF penetration 20-40% (therapeutic)                                                         |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **Metabolism**    | -   No metabolism, renally eliminated                                                            |          |
+|                   |                                                                                                  |          |
+|                   | -   t½: cefepime (2hr); ceftaroline (2-3 hr); cefiderocol (3hr); ceftolozane-tazobactam (3.1 hr) |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **Elimination**   | All renal                                                                                        |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                                                          |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **Typical doses** | -   Cefepime 1-2 gram IV q8h or 15 mg/kg IV push, then 6 grams IV over 24 hours;                 |          |
+|                   |                                                                                                  |          |
+|                   | -   Ceftaroline 600 mg IV q8-12h;                                                                |          |
+|                   |                                                                                                  |          |
+|                   | -   Cefiderocol 2 grams IV q8h over 3 hours;                                                     |          |
+|                   |                                                                                                  |          |
+|                   | -   Ceftolozane-tazobactam-tazobactam 3 grams over 3 hours q8 hours                              |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+
+::: aside
+Source: Sanford Guide
+:::
+
+## 4-6th generation cephalosporin resistance
+
+-   **Ceftazidime-avibactam:** β-Lactamase Mutations and overexpression (e.g.,KPC-3 D179Y, T243M, and V240G); penicillin binding protein (PBP) alterations, efflux pump overexpression, porin Mutations and Deficiencies, AmpC β-Lactamase alterations
+
+-   
 
 <br>
