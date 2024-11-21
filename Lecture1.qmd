@@ -164,7 +164,7 @@ Source: Sanford Guide
 
 ## Second generation cephalosporins {.smaller}
 
-![](images/2ndgen.png){fig-align="center" width="800"}
+![](images/2ndgen.png){fig-align="center" width="600"}
 
 ## Spectrum of activity {.smaller}
 
@@ -193,7 +193,7 @@ Source. Sanford's Guide
 +-------------------+--------------------------------------------------------------------------+
 | **Metabolism**    | -   No metabolism                                                        |
 |                   |                                                                          |
-|                   | -   t½:cCefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr) \| |
+|                   | -   t½: cefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr) \| |
 +-------------------+--------------------------------------------------------------------------+
 | **Elimination**   | Renal 100%                                                               |
 +-------------------+--------------------------------------------------------------------------+
@@ -216,7 +216,9 @@ Source: Sanford Guide
 
 -   Cefotetan- GI surgical prophylaxis (resistance is increasing in *B. fragilis*)
 
--   Upper respiratory tract infections, CAP, gonorrhea,...but these are "in between" antibiotics and often passed over for better options
+-   Upper respiratory tract infections, CAP, gonorrhea,...
+
+    -   but these are "in between" antibiotics and often passed over for better options
 
 ## 3rd generation cephalosporins {.smaller}
 
@@ -260,6 +262,8 @@ Source: Sanford Guide
 
 ## 3rd generation cephalosporins: <br> Role in treatment
 
+<br>
+
 -   Extended gram-negative bacteria coverage, often used to treat gram-negative infections resistant to the first- and second-generation or other β-lactam antimicrobials
 -   Ceftriaxone and cefotaxime penetrate the blood-brain barrier and cover bacteria in the cerebral spinal fluid,
     -   Ceftriaxone can be prescribed to treat meningitis caused by *H influenzae*, *Neisseria meningitidis*, or *Streptococcus pneumoniae.* 
@@ -271,7 +275,7 @@ Source: Sanford Guide
 <br>
 
 -   Often avoided in neonates, because of displacement of bilirubin (cefotaxime used instead)
--   2 gram q24h dose has largely replaced 1 gram dose for most indications (obesity, safety, improved PK/PD target attainment in critically ill)
+-   2 gram q24h dose has largely replaced 1 gram dose for most indications (similar safety, improved PK/PD target in obese/ critically ill)
     -   Risk for low exposure: low albumin, augmented renal clearance, sepsis
     -   Protein binding a key component that slows ceftriaxone clearance
 -   Meningitis dose: 2 gram IV q12h
