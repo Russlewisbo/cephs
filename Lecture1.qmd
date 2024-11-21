@@ -21,7 +21,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Lecture 5: β-lactams, Part 2: <br> Cephalosporins and carbapenems {background-video="login-lores.mp4" background-opacity="0.3"}
+## Lecture 5: β-lactams, Part 2: <br> Cephalosporins and carbapenems {background-video="login-lores.mp4" background-video-loop background-opacity="0.3"}
 
 <br> <br> <br> <br>
 
@@ -325,7 +325,7 @@ Source: Sanford Guide
 ![](images/carbapenemase_spectrum.png){fig-align="center"}
 
 ::: aside
-[@tamma.hsu_2019] <br> Green, susceptibility anticipated to be \>80%; yellow, susceptibility antic- ipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be \<30%.
+[@tamma.hsu_2019] <br> Green, susceptibility anticipated to be \>80%; yellow, susceptibility anticipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be \<30%.
 :::
 
 ## 4th, 5th and 6th generation cephalosporins {fig-align="center"}
@@ -362,7 +362,7 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 :::
 ::::
 
-## Pharmacokinetics of 4-6th gen cephalosporins {style=".smaller"}
+## Pharmacokinetics of "4-6th generation" cephalosporins {style=".smaller"}
 
 <br>
 
@@ -387,17 +387,25 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 |                   |                                                                                                  |          |
 |                   | -   Cefiderocol 2 grams IV q8h over 3 hours;                                                     |          |
 |                   |                                                                                                  |          |
-|                   | -   Ceftolozane-tazobactam-tazobactam 3 grams over 3 hours q8 hours                              |          |
+|                   | -   Ceftolozane-tazobactam 3 grams over 3 hours q8 hours                                         |          |
 +-------------------+--------------------------------------------------------------------------------------------------+----------+
 
 ::: aside
 Source: Sanford Guide
 :::
 
-## 4-6th generation cephalosporin resistance
-
--   **Ceftazidime-avibactam:** β-Lactamase Mutations and overexpression (e.g.,KPC-3 D179Y, T243M, and V240G); penicillin binding protein (PBP) alterations, efflux pump overexpression, porin Mutations and Deficiencies, AmpC β-Lactamase alterations
-
--   
+## 4-6th generation cephalosporin resistance in Gram negatives
 
 <br>
+
+In addition to porin channel alterations, efflux pumps...
+
+-   **Cefepime:** MBLs and serine beta-lactamases (ESBLs); PBP3 insertions; OXA-48 enzymes
+
+-   **Ceftazidime-avibactam:** β-Lactamase mutations and overexpression (e.g.,KPC-3 D179Y, T243M, and V240G); penicillin binding protein (PBP) alterations, efflux pump overexpression, porin mutations and deficiencies, AmpC β-Lactamase alterations
+
+-   **Cefiderocol:** Siderophone receptor mutations (pirA and cirA), PBP3 Mutations, NDM, KPC and AMPC mutations, porin mutations
+
+-   **Ceftolozane-tazobactam:** MBLs, ESBLs (CTX-M-15; CMY-10); OXA -type β-Lactamases (OXA-10, OXA-14), OXA-794, OXA 795), PBP alterations
+
+## References
