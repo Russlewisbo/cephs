@@ -398,14 +398,16 @@ Source: Sanford Guide
 
 <br>
 
-In addition to porin channel alterations, efflux pumps...
+**In addition to porin channel alterations, efflux pumps...**
 
 -   **Cefepime:** MBLs and serine beta-lactamases (ESBLs); PBP3 insertions; OXA-48 enzymes
 
 -   **Ceftazidime-avibactam:** β-Lactamase mutations and overexpression (e.g.,KPC-3 D179Y, T243M, and V240G); penicillin binding protein (PBP) alterations, efflux pump overexpression, porin mutations and deficiencies, AmpC β-Lactamase alterations
 
--   **Cefiderocol:** Siderophone receptor mutations (pirA and cirA), PBP3 Mutations, NDM, KPC and AMPC mutations, porin mutations
+-   **Cefiderocol:** Siderophone uptake/receptor mutations (pirA and cirA), PBP3 Mutations, NDM, KPC and AMPC mutations
 
 -   **Ceftolozane-tazobactam:** MBLs, ESBLs (CTX-M-15; CMY-10); OXA -type β-Lactamases (OXA-10, OXA-14), OXA-794, OXA 795), PBP alterations
+
+## PBP3 insertions
 
 ## References
