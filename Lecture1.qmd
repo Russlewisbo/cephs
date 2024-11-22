@@ -20,7 +20,9 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
+
 ## Lecture 5: β-lactams, Part 2: <br> Cephalosporins and carbapenems {background-video="login-lores.mp4" background-video-loop="true" background-opacity="0.3"}
+
 
 <br> <br> <br> <br>
 
@@ -163,7 +165,7 @@ Source: Sanford Guide
 
 ## Second generation cephalosporins {.smaller}
 
-![](images/2ndgen.png){fig-align="center" width="800"}
+![](images/2ndgen.png){fig-align="center" width="600"}
 
 ## Spectrum of activity {.smaller}
 
@@ -192,7 +194,7 @@ Source. Sanford's Guide
 +-------------------+--------------------------------------------------------------------------+
 | **Metabolism**    | -   No metabolism                                                        |
 |                   |                                                                          |
-|                   | -   t½:cCefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr) \| |
+|                   | -   t½: cefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr) \| |
 +-------------------+--------------------------------------------------------------------------+
 | **Elimination**   | Renal 100%                                                               |
 +-------------------+--------------------------------------------------------------------------+
@@ -215,7 +217,9 @@ Source: Sanford Guide
 
 -   Cefotetan- GI surgical prophylaxis (resistance is increasing in *B. fragilis*)
 
--   Upper respiratory tract infections, CAP, gonorrhea,...but these are "in between" antibiotics and often passed over for better options
+-   Upper respiratory tract infections, CAP, gonorrhea,...
+
+    -   but these are "in between" antibiotics and often passed over for better options
 
 ## 3rd generation cephalosporins {.smaller}
 
@@ -253,13 +257,13 @@ Source: Sanford Guide
 |                   | Cephalexin 250-1000 mg QID                                                                                                                                                                  |        |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+
 
-======= +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **Absorption** \| cefpodoxime (56%); cefexime (50%); cefoperazone (IV); ceftazidime (IV); cefotaxime (IV); ceftriaxone (IV, IM) \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **Distribution** \| - 0.15-0.93 L/kg \| \| \| \| \| \| \| \| - Protein binding: \<10% ceftazidime; 30-70% cefotaxime, cefpodoxime, cefixime; \> 85-90% cefoperazone, ceftriaxone \| \| \| \| \| \| \| \| - CSF/Blood \> 10%: cefotaxime, ceftazidime; ceftriaxone, \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **Metabolism** \| - No metabolism \| \| \| \| \| \| \| \| - t½: cefotoxime, ceftazidim, cefoperazone; 1.5-2 hr; cefpodoxime 2.5 hr; cefixime 3hr; ceftriaxone 8 hr; \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **Elimination** \| All renal except ceftriaxone (biliary) and cefoperazone \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **PK:PD target** \| ≥ 40-50% *f*Time~\>MIC~ \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+ \| **Typical doses** \| Cefotoxime 2 grams IV q8h; cefpodoxime 200-400 mg BID; ceftazidime 1-2 gram IV q8h or 15 mg/kg LD then 6 G IV over 24h; ceftriaxone 1-2 grams IV 24h (q12h meningitis); cefexime 400 mg BID \| \| \| \| \| \| \| \| Cephalexin 250-1000 mg QID \| \| +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+
-
 ::: aside
 Source: Sanford Guide
 :::
 
 ## 3rd generation cephalosporins: <br> Role in treatment
+
+<br>
 
 -   Extended gram-negative bacteria coverage, often used to treat gram-negative infections resistant to the first- and second-generation or other β-lactam antimicrobials
 -   Ceftriaxone and cefotaxime penetrate the blood-brain barrier and cover bacteria in the cerebral spinal fluid,
@@ -272,7 +276,7 @@ Source: Sanford Guide
 <br>
 
 -   Often avoided in neonates, because of displacement of bilirubin (cefotaxime used instead)
--   2 gram q24h dose has largely replaced 1 gram dose for most indications (obesity, safety, improved PK/PD target attainment in critically ill)
+-   2 gram q24h dose has largely replaced 1 gram dose for most indications (similar safety, improved PK/PD target in obese/ critically ill)
     -   Risk for low exposure: low albumin, augmented renal clearance, sepsis
     -   Protein binding a key component that slows ceftriaxone clearance
 -   Meningitis dose: 2 gram IV q12h
@@ -322,7 +326,7 @@ Source: Sanford Guide
 ![](images/carbapenemase_spectrum.png){fig-align="center"}
 
 ::: aside
-[@tamma.hsu_2019] <br> Green, susceptibility anticipated to be \>80%; yellow, susceptibility antic- ipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be \<30%.
+[@tamma.hsu_2019] <br> Green, susceptibility anticipated to be \>80%; yellow, susceptibility anticipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be \<30%.
 :::
 
 ## 4th,5th and 6th generation cephalosporins {fig-align="center"}
@@ -332,7 +336,86 @@ Source: Sanford Guide
 ## Spectrum of activity
 
 ## References
+=======
+## 4th, 5th and 6th generation cephalosporins {fig-align="center"}
 
 <br>
 
+![](images/5th%20and6th.png){fig-align="center" width="600"}
+
+## Spectrum of activity
+
 <br>
+
+![](images/specterum5thand6th.png){fig-align="center"}
+
+## Cefiderocol
+
+<br>
+
+![](images/cefiderocol.png){fig-align="center" width="600"}
+
+::: aside
+Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
+:::
+
+## Cefiderocol ( ): <br> How does it overcome resistance?
+
+<br>
+
+![](images/cefiderocol2.png){fig-align="center"}
+
+
+::: aside
+Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
+:::
+
+## Pharmacokinetics of "4-6th generation" cephalosporins {style=".smaller"}
+
+<br>
+
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **Absorption**    | All intravenous formulations                                                                     |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **Distribution**  | -   0.19-0.3 L/kg                                                                                |          |
+|                   | -   protein binding 20-40%                                                                       |          |
+|                   | -   CSF penetration 20-40% (therapeutic)                                                         |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **Metabolism**    | -   No metabolism, renally eliminated                                                            |          |
+|                   |                                                                                                  |          |
+|                   | -   t½: cefepime (2hr); ceftaroline (2-3 hr); cefiderocol (3hr); ceftolozane-tazobactam (3.1 hr) |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **Elimination**   | All renal                                                                                        |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                                                          |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+| **Typical doses** | -   Cefepime 1-2 gram IV q8h or 15 mg/kg IV push, then 6 grams IV over 24 hours;                 |          |
+|                   |                                                                                                  |          |
+|                   | -   Ceftaroline 600 mg IV q8-12h;                                                                |          |
+|                   |                                                                                                  |          |
+|                   | -   Cefiderocol 2 grams IV q8h over 3 hours;                                                     |          |
+|                   |                                                                                                  |          |
+|                   | -   Ceftolozane-tazobactam 3 grams over 3 hours q8 hours                                         |          |
++-------------------+--------------------------------------------------------------------------------------------------+----------+
+
+::: aside
+Source: Sanford Guide
+:::
+
+## 4-6th generation cephalosporin resistance in Gram negatives
+
+<br>
+
+**In addition to porin channel alterations, efflux pumps...**
+
+-   **Cefepime:** MBLs and serine beta-lactamases (ESBLs); PBP3 insertions; OXA-48 enzymes
+
+-   **Ceftazidime-avibactam:** β-Lactamase mutations and overexpression (e.g.,KPC-3 D179Y, T243M, and V240G); penicillin binding protein (PBP) alterations, efflux pump overexpression, porin mutations and deficiencies, AmpC β-Lactamase alterations
+
+-   **Cefiderocol:** Siderophone uptake/receptor mutations (pirA and cirA), PBP3 Mutations, NDM, KPC and AMPC mutations
+
+-   **Ceftolozane-tazobactam:** MBLs, ESBLs (CTX-M-15; CMY-10); OXA -type β-Lactamases (OXA-10, OXA-14), OXA-794, OXA 795), PBP alterations
+
+## PBP3 insertions
+
+## References

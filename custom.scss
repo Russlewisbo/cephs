@@ -3,12 +3,17 @@
 /*-- scss:defaults --*/
 
 
+<<<<<<< HEAD
+=======
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet');
+>>>>>>> d428c4668bb6ef7c836edecca324fb95cee34039
 
 // fonts
-$font-family-sans-serif: Helvetica, sans-serif !default;
+$font-family-sans-serif: 'inter', sans-serif;
+$presentation-heading-font: 'Inter', serif;
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
   "Liberation Mono", "Courier New", monospace !default;
-$presentation-font-size-root: 28px !default;
+$presentation-font-size-root: 22px !default;
 $presentation-font-smaller: 0.7 !default;
 $presentation-line-height: 1.3 !default;
 
