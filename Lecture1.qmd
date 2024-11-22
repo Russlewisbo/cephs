@@ -20,7 +20,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Lecture 5: β-lactams, Part 2: <br> Cephalosporins and carbapenems {background-image="images/Bronzu.png" background-opacity="0.1"}
+## Lecture 5: β-lactams, Part 2: <br> Cephalosporins and carbapenems {background-video="login-lores.mp4" background-video-loop="true" background-opacity="0.3"}
 
 <br> <br> <br> <br>
 
