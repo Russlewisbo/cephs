@@ -1,7 +1,6 @@
 ---
 format:
   revealjs:
-    spotlight: true
     touch: true
     controls: true
     pointer: true
@@ -21,7 +20,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Lecture 5: Cephalosporins and carbapenems
+## Lecture 5: Cephalosporins and carbapenems {background-video="login-lores.mp4" background-video-loop="true" background-opacity="0.3"}
 
 <br> <br> <br> <br>
 
@@ -33,7 +32,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Agenda
 
-## Discovery of cephalosporins {.smaller}
+## Discovery of cephalosporins
 
 <br>
 
@@ -43,8 +42,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 :::
 
 ::: {.column width="60%"}
-<br>
-
 -   Bronzu performed epidemiological studies of typhoid infection in Cagliari, noted *Salmonella typhi* was not cultured once sewer water was discharged into the sea
 -   Isolated the mold *Cephalosporium* (now known as *Acremonium*) in 1948 from seawater
 -   Noticed that these cultures produced substances (he named mycetin) that were effective against *Salmonella typhi*, the cause of typhoid fever, which had beta-lactamase.
@@ -230,9 +227,7 @@ Source: Sanford Guide
 
 ![](images/3rdgenspectrum.png){fig-align="center"}
 
-## Pharmacokinetics: <br>3rd generation cephalosporins {.smaller}
-
-<br>
+## Pharmacokinetics: 3rd generation cephalosporins {.smaller}
 
 +-------------------+-----------------------------------------------------------------------------------------------------------------------+-------+-------+
 | **Absorption**    | cefpodoxime (56%); cefexime (50%); cefoperazone (IV); ceftazidime (IV); cefotaxime (IV); ceftriaxone (IV, IM)         |       |       |
@@ -288,8 +283,6 @@ Source: Sanford Guide
 
 ## Higher failure rates of 2nd and <br> 3rd generation cephalosporins for MSSA? {.small}
 
-<br>
-
 -   MSSA MIC breakpoints historically have been too high (MIC ≤ 8) vs. gram negatives (MIC ≤ 1, set to address ESBL test problems)
     -   Oxacillin and cefoxitin susceptibility are probably not a good predictor of ceftriaxone susceptibility among MSSA
 -   In vitro, killing by ceftriaxone (esp. in presence of albumin) is much slower then anti-staphylococcal PCNs
@@ -302,7 +295,7 @@ Source: Sanford Guide
 [@paul.etal_2011; @zelenitsky.etal_2018]
 :::
 
-## Ceftriaxone for enterococcal endocarditis? {.smaller}
+## Ceftriaxone for enterococcal endocarditis {.smaller}
 
 -   Aminoglycoside sparing regimens for *E. faecalis* endocarditis: Ceftriaxone + ampicillin
     -   *E. faecalis* has 5 PBPs
@@ -333,6 +326,14 @@ Source: Sanford Guide
 ::: aside
 [@tamma.hsu_2019] <br> Green, susceptibility anticipated to be \>80%; yellow, susceptibility anticipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be \<30%.
 :::
+
+## 4th, 5th and 6th generation cephalosporins {fig-align="center"}
+
+<br>
+
+## Spectrum of activity
+
+# \## References
 
 ## 4th, 5th and 6th generation cephalosporins {fig-align="center"}
 
