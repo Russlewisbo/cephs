@@ -1,6 +1,7 @@
 ---
 format:
   revealjs:
+    spotlight: true
     touch: true
     controls: true
     pointer: true
@@ -42,6 +43,8 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 :::
 
 ::: {.column width="60%"}
+<br>
+
 -   Bronzu performed epidemiological studies of typhoid infection in Cagliari, noted *Salmonella typhi* was not cultured once sewer water was discharged into the sea
 -   Isolated the mold *Cephalosporium* (now known as *Acremonium*) in 1948 from seawater
 -   Noticed that these cultures produced substances (he named mycetin) that were effective against *Salmonella typhi*, the cause of typhoid fever, which had beta-lactamase.
@@ -225,8 +228,9 @@ Source: Sanford Guide
 
 ![](images/3rdgenspectrum.png){fig-align="center"}
 
-## Pharmacokinetics: 3rd generation cephalosporins {.smaller}
+## Pharmacokinetics: <br>3rd generation cephalosporins {.smaller}
 
+<<<<<<< HEAD
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
 | **Absorption**    | cefpodoxime (56%); cefexime (50%); cefoperazone (IV); ceftazidime (IV); cefotaxime (IV); ceftriaxone (IV, IM)                                                                               |   |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
@@ -248,6 +252,37 @@ Source: Sanford Guide
 |                   |                                                                                                                                                                                             |   |
 |                   | Cephalexin 250-1000 mg QID                                                                                                                                                                  |   |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
+=======
+<br>
+
++-------------------+-----------------------------------------------------------------------------------------------------------------------+------+------+
+| **Absorption**    | cefpodoxime (56%); cefexime (50%); cefoperazone (IV); ceftazidime (IV); cefotaxime (IV); ceftriaxone (IV, IM)         |      |      |
++-------------------+-----------------------------------------------------------------------------------------------------------------------+------+------+
+| **Distribution**  | -   0.15-0.93 L/kg                                                                                                    |      |      |
+|                   |                                                                                                                       |      |      |
+|                   | -   Protein binding: \<10% ceftazidime; 30-70% cefotaxime, cefpodoxime, cefixime; \> 85-90% cefoperazone, ceftriaxone |      |      |
+|                   |                                                                                                                       |      |      |
+|                   | -   CSF/Blood \> 10%: cefotaxime, ceftazidime; ceftriaxone,                                                           |      |      |
++-------------------+-----------------------------------------------------------------------------------------------------------------------+------+------+
+| **Metabolism**    | -   No metabolism                                                                                                     |      |      |
+|                   |                                                                                                                       |      |      |
+|                   | -   t½: cefotaxime, ceftazidime, cefoperazone; 1.5-2 hr; cefpodoxime 2.5 hr; cefixime 3hr; ceftriaxone 8 hr;          |      |      |
++-------------------+-----------------------------------------------------------------------------------------------------------------------+------+------+
+| **Elimination**   | All renal except: ceftriaxone and cefoperazone undergo primarily biliary elimination                                  |      |      |
++-------------------+-----------------------------------------------------------------------------------------------------------------------+------+------+
+| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                                                                               |      |      |
++-------------------+-----------------------------------------------------------------------------------------------------------------------+------+------+
+| **Typical doses** | -   Cefotaxime 2 grams IV q8h                                                                                         |      |      |
+|                   |                                                                                                                       |      |      |
+|                   | -   Cefpodoxime 200-400 mg BID                                                                                        |      |      |
+|                   |                                                                                                                       |      |      |
+|                   | -   Ceftazidime 1-2 gram IV q8h or 15 mg/kg LD then 6 G IV over 24h                                                   |      |      |
+|                   |                                                                                                                       |      |      |
+|                   | -   Ceftriaxone 1-2 grams IV 24h (q12h meningitis) cefixime 400 mg BID                                                |      |      |
+|                   |                                                                                                                       |      |      |
+|                   | -   Cephalexin 250-1000 mg QID                                                                                        |      |      |
++-------------------+-----------------------------------------------------------------------------------------------------------------------+------+------+
+>>>>>>> a1d4a61e36c579c2b8634f5e23d8f10e16f45e80
 
 ::: aside
 Source: Sanford Guide
@@ -258,10 +293,10 @@ Source: Sanford Guide
 <br>
 
 -   Extended gram-negative bacteria coverage, often used to treat gram-negative infections resistant to the first- and second-generation or other β-lactam antimicrobials
--   Ceftriaxone and cefotaxime penetrate the blood-brain barrier and cover bacteria in the cerebral spinal fluid,
-    -   Ceftriaxone can be prescribed to treat meningitis caused by *H influenzae*, *Neisseria meningitidis*, or *Streptococcus pneumoniae.* 
-    -   Ceftriaxone is also used to treat gonorrhea and disseminated Lyme disease.
-    -   Ceftazidime has *Pseudomonas aeruginosa* coverage
+-   Ceftriaxone and cefotaxime penetrate the blood-brain barrier and cover bacteria in the cerebral spinal fluid
+    -   Ceftriaxone can be prescribed to treat meningitis caused by *H influenzae*, *Neisseria meningitidis*, or *Streptococcus pneumoniae*
+    -   Ceftriaxone is also used to treat gonorrhea and disseminated Lyme disease
+    -   Ceftazidime has *Pseudomonas aeruginosa* coverage
 
 ## Key issues with ceftriaxone dosing {.small}
 
@@ -275,27 +310,29 @@ Source: Sanford Guide
 
 ## Higher failure rates of 2nd and <br> 3rd generation cephalosporins for MSSA? {.small}
 
+<br>
+
 -   MSSA MIC breakpoints historically have been too high (MIC ≤ 8) vs. gram negatives (MIC ≤ 1, set to address ESBL test problems)
     -   Oxacillin and cefoxitin susceptibility are probably not a good predictor of ceftriaxone susceptibility among MSSA
 -   In vitro, killing by ceftriaxone (esp. in presence of albumin) is much slower then anti-staphylococcal PCNs
+-   Conflicting observational clinical studies whether ceftriaxone is inferior
 -   In clinical PK/PD analysis, ceftriaxone 2 grams daily had a clinical failure rate of 55%, which was almost the same as vancomycin 1 gram Q12
     -   Ceftriaxone 2 gram q12 needed to give the best chance of covering MSSA
     -   OPAT convenience: cefazolin 2 gram q12h or daptomycin 6-8 mg/kg once daily
--   Conflicting observational clinical studies whether ceftriaxone is inferior
 
 ::: aside
 [@paul.etal_2011; @zelenitsky.etal_2018]
 :::
 
-## Ceftriaxone for enterococcal endocarditis {.smaller}
+## Ceftriaxone for enterococcal endocarditis? {.smaller}
 
 -   Aminoglycoside sparing regimens for *E. faecalis* endocarditis: Ceftriaxone + ampicillin
     -   *E. faecalis* has 5 PBPs
     -   At high doses, ampicillin will bind PBP 1,4,5 and ceftriaxone will bind PBPs 2,3
-    -   Binding all 5 PBP creates remarkable synergy
+    -   Binding all 5 PBP creates potent synergy
     -   Need to use 2 gram IV q12h of ceftriaxone
 
-![](images/Screenshot%202024-10-29%20at%2017.17.34.png){width="1000"}
+![](images/Screenshot%202024-10-29%20at%2017.17.34.png){width="800"}
 
 ::: aside
 [@fernandez-hidalgo.etal_2013]
@@ -323,14 +360,6 @@ Source: Sanford Guide
 
 <br>
 
-## Spectrum of activity
-
-# \## References
-
-## 4th, 5th and 6th generation cephalosporins {fig-align="center"}
-
-<br>
-
 ![](images/5th%20and6th.png){fig-align="center" width="600"}
 
 ## Spectrum of activity
@@ -353,7 +382,7 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 
 <br>
 
-![](images/cefiderocol2.png){fig-align="center"}
+![](images/cefiderocol2.png){fig-align="center" width="600"}
 
 ::: aside
 Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
@@ -363,6 +392,7 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 
 <br>
 
+<<<<<<< HEAD
 +-------------------+--------------------------------------------------------------------------------------------------+---+
 | **Absorption**    | All intravenous formulations                                                                     |   |
 +-------------------+--------------------------------------------------------------------------------------------------+---+
@@ -386,10 +416,33 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 |                   |                                                                                                  |   |
 |                   | -   Ceftolozane-tazobactam 3 grams over 3 hours q8 hours                                         |   |
 +-------------------+--------------------------------------------------------------------------------------------------+---+
+=======
++-------------------+---------------------------------------------------------------------------------+----------+
+| **Absorption**    | All intravenous formulations                                                    |          |
++-------------------+---------------------------------------------------------------------------------+----------+
+| **Distribution**  | -   0.19-0.3 L/kg                                                               |          |
+|                   | -   protein binding 20-40%                                                      |          |
+|                   | -   CSF penetration 20-40% (therapeutic)                                        |          |
++-------------------+---------------------------------------------------------------------------------+----------+
+| **Metabolism**    | -   No metabolism, renally eliminated                                           |          |
+|                   |                                                                                 |          |
+|                   | -   t½: 2-3 hours                                                               |          |
++-------------------+---------------------------------------------------------------------------------+----------+
+| **Elimination**   | All renal                                                                       |          |
++-------------------+---------------------------------------------------------------------------------+----------+
+| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                                         |          |
++-------------------+---------------------------------------------------------------------------------+----------+
+| **Typical doses** | -   Cefepime 1-2 gram IV q8h or 15 mg/kg IV push, then 6 grams IV over 24 hours |          |
+|                   |                                                                                 |          |
+|                   | -   Ceftaroline 600 mg IV q8-12h                                                |          |
+|                   |                                                                                 |          |
+|                   | -   Cefiderocol 2 grams IV q8h over 3 hours                                     |          |
+|                   |                                                                                 |          |
+|                   | -   Ceftolozane-tazobactam 3 grams over 3 hours q8 hours                        |          |
++-------------------+---------------------------------------------------------------------------------+----------+
+>>>>>>> a1d4a61e36c579c2b8634f5e23d8f10e16f45e80
 
-::: aside
-Source: Sanford Guide
-:::
+o ::: aside Source: Sanford Guide :::
 
 ## 4-6th generation cephalosporin resistance in Gram negatives
 

@@ -48,7 +48,7 @@ $presentation-h3-font-size: 1.2em !default;
 $presentation-h4-font-size: 1em !default;
 
 // margins
-$presentation-block-margin: 12px !default;
+$presentation-block-margin: 14px !default;
 
 // text alignment
 $presentation-slide-text-align: left !default;
@@ -66,7 +66,7 @@ $reveal-title-slide-text-align: $presentation-title-slide-text-align !default;
 // code blocks
 $code-block-bg: $body-bg !default;
 $code-block-border-color: lighten($body-color, 60%) !default;
-$code-block-font-size: 0.55em !default;
+$code-block-font-size: 0.40em !default;
 
 // inline code
 $code-color: var(--quarto-hl-fu-color) !default;
@@ -203,6 +203,14 @@ section.has-dark-background {
     color: $dark-bg-code-color;
   }
 }
+
+.table-grid {
+    font-family: Space Mono;
+    font-size: 14pt;
+    position: relative;
+    top: 40px;
+    left: 40px;
+ }
 
 #title-slide {
   text-align: $presentation-title-slide-text-align;
