@@ -53,7 +53,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 :::
 :::::
 
-## Mechanism of action of cephalosporins: <br> Same as β-lactams
+## Mechanism of action of cephalosporins: <br> Similar to β-lactams
 
 <br>
 
@@ -226,7 +226,69 @@ Source: Sanford Guide
 
 ## 3rd generation cephalosporins <br> spectrum of activity <br> <br>
 
-![](images/3rdgenspectrum.png){fig-align="center"}
+## Spectrum of Activity for 3rd Generation Cephalosporins {.smaller}
+
+### Gram-Positive Coverage
+
+-   **Reduced compared to 1st/2nd generation** cephalosporins
+
+-   Moderate activity against **Streptococcus pneumoniae** and other streptococci
+
+-   **Poor activity** against methicillin-resistant Staphylococcus aureus (MRSA)
+
+-   Limited activity against **Enterococcus species**
+
+-   Ceftriaxone maintains reasonable activity against penicillin-susceptible S. pneumoniae
+
+### Gram-Negative Coverage (Primary Strength)
+
+-   **Excellent activity** against Enterobacteriaceae:
+
+    -   E. coli
+
+    -   Klebsiella species
+
+    -   Proteus mirabilis
+
+    -   Citrobacter species
+
+    -   Serratia marcescens
+
+-   Good activity against **Haemophilus influenzae** (including β-lactamase producers)
+
+-   Coverage of **Neisseria gonorrhoeae** and **N. meningitidis**
+
+-   **Ceftazidime** uniquely covers **Pseudomonas aeruginosa**
+
+-   Generally active against **Moraxella catarrhalis**
+
+## Notable Gaps;: <br> 3rd generation cephalosporins {.smaller}
+
+### No activity against:
+
+-   MRSA or methicillin-resistant coagulase-negative staphylococci
+
+-   Enterococcus faecalis/faecium
+
+-   Listeria monocytogenes
+
+-   Atypical pathogens (Mycoplasma, Chlamydia, Legionella)
+
+-   Most anaerobes (except some activity from ceftriaxone/cefotaxime)
+
+-   Extended-spectrum β-lactamase (ESBL) producing organisms
+
+-   AmpC β-lactamase producers
+
+### Key Clinical Agents
+
+-   **Ceftriaxone/Cefotaxime**: Broadest spectrum, CNS penetration
+
+-   **Ceftazidime**: Anti-pseudomonal activity
+
+-   **Cefixime**: Oral option with good gram-negative coverage
+
+-   **Ceftibuten/Cefdinir**: Other oral options with varying spectra
 
 ## Pharmacokinetics: <br>3rd generation cephalosporins {.smaller}
 
@@ -267,17 +329,15 @@ Source: Sanford Guide
 -   Often avoided in neonates, because of displacement of bilirubin (cefotaxime used instead)
 -   2 gram q24h dose has largely replaced 1 gram dose for most indications (similar safety, improved PK/PD target in obese/ critically ill)
     -   Risk for low exposure: low albumin, augmented renal clearance, sepsis
-    -   Protein binding a key component that slows ceftriaxone clearance
+    -   High protein binding a key component that slows ceftriaxone clearance
 -   Meningitis dose: 2 gram IV q12h
 
 ## Higher failure rates of 2nd and <br> 3rd generation cephalosporins for MSSA? {.small}
 
-<br>
-
 -   MSSA MIC breakpoints historically have been too high (MIC ≤ 8) vs. gram negatives (MIC ≤ 1, set to address ESBL test problems)
     -   Oxacillin and cefoxitin susceptibility are probably not a good predictor of ceftriaxone susceptibility among MSSA
 -   In vitro, killing by ceftriaxone (esp. in presence of albumin) is much slower then anti-staphylococcal PCNs
--   Conflicting observational clinical studies whether ceftriaxone is inferior
+-   Yet, conflicting observational clinical studies whether ceftriaxone is inferior
 -   In clinical PK/PD analysis, ceftriaxone 2 grams daily had a clinical failure rate of 55%, which was almost the same as vancomycin 1 gram Q12
     -   Ceftriaxone 2 gram q12 needed to give the best chance of covering MSSA
     -   OPAT convenience: cefazolin 2 gram q12h or daptomycin 6-8 mg/kg once daily
@@ -328,7 +388,37 @@ Source: Sanford Guide
 
 <br>
 
-![](images/specterum5thand6th.png){fig-align="center"}
+### 4th Generation (Cefepime) {.smaller}
+
+**Key feature: Enhanced stability against AmpC β-lactamases**
+
+**Gram-Positive Coverage:**
+
+-   Better than 3rd generation, similar to 2nd generation
+
+-   Good activity against **Streptococcus pneumoniae** and viridans streptococci
+
+-   Moderate activity against **methicillin-susceptible S. aureus** (MSSA)
+
+-   No MRSA or Enterococcus coverage
+
+**Gram-Negative Coverage:**
+
+-   Excellent **Enterobacteriaceae** coverage, including AmpC producers:
+
+    -   Enterobacter species
+
+    -   Citrobacter freundii
+
+    -   Serratia marcescens
+
+    -   Providencia species
+
+    -   Morganella morganii
+
+-   **Pseudomonas aeruginosa** coverage comparable to ceftazidime
+
+-   Maintains activity against organisms resistant to 3rd generation cephalosporins
 
 ## Cefiderocol
 
@@ -393,5 +483,9 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 -   **Ceftolozane-tazobactam:** MBLs, ESBLs (CTX-M-15; CMY-10); OXA -type β-Lactamases (OXA-10, OXA-14), OXA-794, OXA 795), PBP alterations
 
 ## PBP3 insertions
+
+![](images/pbp.png){fig-align="center" width="600"}
+
+[@sethuvel2023]
 
 ## References
