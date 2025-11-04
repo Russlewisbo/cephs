@@ -562,6 +562,16 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 
 -   Seizures: Impinem \> meropenem, ertapenem
 
--   
+-   Phlebitis 4%
+
+-   Neutropenia
+
+-   Eosinophilia
+
+-    DRESS
+
+-   Diarrhoea 6%
+
+-   Deranged LFTs 6%
 
 ## References
