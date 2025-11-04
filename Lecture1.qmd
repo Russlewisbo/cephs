@@ -224,9 +224,7 @@ Source: Sanford Guide
 
 ![](images/3rdgen.png){fig-align="center" width="400"}
 
-## 3rd generation cephalosporins <br> spectrum of activity <br> <br>
-
-## Spectrum of Activity for 3rd Generation Cephalosporins {.smaller}
+## 3rd generation cephalosporins: spectrum {.smaller}
 
 ### Gram-Positive Coverage
 
@@ -240,29 +238,29 @@ Source: Sanford Guide
 
 -   Ceftriaxone maintains reasonable activity against penicillin-susceptible S. pneumoniae
 
-### Gram-Negative Coverage (Primary Strength)
+### Gram-Negative Coverage (Primary role)
 
 -   **Excellent activity** against Enterobacteriaceae:
 
-    -   E. coli
+    -   *E. coli*
 
-    -   Klebsiella species
+    -   *Klebsiella species*
 
-    -   Proteus mirabilis
+    -   *Proteus mirabilis*
 
-    -   Citrobacter species
+    -   *Citrobacter species*
 
-    -   Serratia marcescens
+    -   *Serratia marcescens*
 
 -   Good activity against **Haemophilus influenzae** (including β-lactamase producers)
 
--   Coverage of **Neisseria gonorrhoeae** and **N. meningitidis**
+-   Coverage of ***Neisseria gonorrhoeae*** and ***N. meningitidis***
 
--   **Ceftazidime** uniquely covers **Pseudomonas aeruginosa**
+-   **Ceftazidime** uniquely covers ***Pseudomonas aeruginosa***
 
--   Generally active against **Moraxella catarrhalis**
+-   Generally active against ***Moraxella catarrhalis***
 
-## Notable Gaps;: <br> 3rd generation cephalosporins {.smaller}
+## Notable Gaps: <br> 3rd generation cephalosporins {.smaller}
 
 ### No activity against:
 
@@ -282,11 +280,11 @@ Source: Sanford Guide
 
 ### Key Clinical Agents
 
--   **Ceftriaxone/Cefotaxime**: Broadest spectrum, CNS penetration
+-   **Ceftriaxone/Cefotaxime**: Broader spectrum, CNS penetration
 
 -   **Ceftazidime**: Anti-pseudomonal activity
 
--   **Cefixime**: Oral option with good gram-negative coverage
+-   **Cefixime**: Oral option with good gram-negative coverage (non-ESBL)
 
 -   **Ceftibuten/Cefdinir**: Other oral options with varying spectra
 
@@ -318,7 +316,7 @@ Source: Sanford Guide
 
 -   Extended gram-negative bacteria coverage, often used to treat gram-negative infections resistant to the first- and second-generation or other β-lactam antimicrobials
 -   Ceftriaxone and cefotaxime penetrate the blood-brain barrier and cover bacteria in the cerebral spinal fluid
-    -   Ceftriaxone can be prescribed to treat meningitis caused by *H influenzae*, *Neisseria meningitidis*, or *Streptococcus pneumoniae*
+    -   Ceftriaxone can be prescribed to treat meningitis caused by *Haemopohilus influenzae*, *Neisseria meningitidis*, or *Streptococcus pneumoniae*
     -   Ceftriaxone is also used to treat gonorrhea and disseminated Lyme disease
     -   Ceftazidime has *Pseudomonas aeruginosa* coverage
 
@@ -440,7 +438,7 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 :::
 
-## Pharmacokinetics of "4-6th generation" cephalosporins {style=".smaller"}
+## Pharmacokinetics of 4 to 5th generation cephalosporins {style=".smaller"}
 
 <br>
 
@@ -468,7 +466,7 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 |                   | -   Ceftolozane-tazobactam 3 grams over 3 hours q8 hours                                         |          |
 +-------------------+--------------------------------------------------------------------------------------------------+----------+
 
-## 4-6th generation cephalosporin resistance in Gram negatives
+## 4 and 5th generation cephalosporin resistance in Gram negatives
 
 <br>
 
@@ -487,5 +485,11 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 ![](images/pbp.png){fig-align="center" width="600"}
 
 [@sethuvel2023]
+
+## Carbapenems
+
+![](images/carbapenems.png){fig-align="center" width="600"}
+
+## Spectrum of activity
 
 ## References
