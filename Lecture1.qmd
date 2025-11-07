@@ -291,7 +291,7 @@ Source: Sanford Guide
 ## Pharmacokinetics: <br>3rd generation cephalosporins {.smaller}
 
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+
-| **Absorption**    | cefpodoxime (56%); cefexime (50%); cefoperazone (IV); ceftazidime (IV); cefotaxime (IV); ceftriaxone (IV, IM)                                                                               |        |
+| **Absorption**    | Cefpodoxime (56%); Cefexime (50%); Cefoperazone (IV); Ceftazidime (IV); Cefotaxime (IV); Ceftriaxone (IV, IM)                                                                               |        |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+
 | **Distribution**  | -   0.15-0.93 L/kg                                                                                                                                                                          |        |
 |                   |                                                                                                                                                                                             |        |
@@ -310,7 +310,7 @@ Source: Sanford Guide
 | **Typical doses** | Cefotaxime 2 grams IV q8h; cefpodoxime 200-400 mg BID; ceftazidime 1-2 gram IV q8h or 15 mg/kg LD then 6 G IV over 24h; ceftriaxone 1-2 grams IV 24h (q12h meningitis); cefixime 400 mg BID |        |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------+
 
-## 3rd generation cephalosporins: <br> Role in treatment
+## 3rd Generation Cephalosporins: <br> Role in treatment
 
 <br>
 
@@ -334,8 +334,8 @@ Source: Sanford Guide
 
 -   MSSA MIC breakpoints historically have been too high (MIC ≤ 8) vs. gram negatives (MIC ≤ 1, set to address ESBL test problems)
     -   Oxacillin and cefoxitin susceptibility are probably not a good predictor of ceftriaxone susceptibility among MSSA
--   In vitro, killing by ceftriaxone (esp. in presence of albumin) is much slower then anti-staphylococcal PCNs
--   Yet, conflicting observational clinical studies whether ceftriaxone is inferior
+-   In vitro, killing by ceftriaxone (esp. in presence of albumin) is much slower versus anti-staphylococcal PCNs
+-   Yet, observational clinical studies provide conflicting evidence whether ceftriaxone is inferior
 -   In clinical PK/PD analysis, ceftriaxone 2 grams daily had a clinical failure rate of 55%, which was almost the same as vancomycin 1 gram Q12
     -   Ceftriaxone 2 gram q12 needed to give the best chance of covering MSSA
     -   OPAT convenience: cefazolin 2 gram q12h or daptomycin 6-8 mg/kg once daily
@@ -438,7 +438,7 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 :::
 
-## Pharmacokinetics of 4 to 5th generation cephalosporins {style=".smaller"}
+## Pharmacokinetics of 4 to 6th generation cephalosporins {style=".smaller"}
 
 <br>
 
