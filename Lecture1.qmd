@@ -480,6 +480,28 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 
 -   **Ceftolozane-tazobactam:** MBLs, ESBLs (CTX-M-15; CMY-10); OXA -type β-Lactamases (OXA-10, OXA-14), OXA-794, OXA 795), PBP alterations
 
+## Resistance mechanisms
+
+<br>
+
+-   **Carbapenemase enzymes**:
+
+    -   **KPC (Class A)** – *Klebsiella pneumoniae* carbapenemase
+
+    -   **NDM/VIM/IMP (Class B, metallo-β-lactamases)**
+
+    -   **OXA-48-like (Class D)** – common in *Enterobacterales*
+
+-   **Non-enzymatic mechanisms**:
+
+    -   Porin loss (e.g., *OmpK35/36* mutations)
+
+    -   Efflux pump overexpression
+
+    -   Combined ESBL + porin loss mechanisms
+
+    -   Target modifications (PBP changes)
+
 ## PBP3 insertions
 
 ![](images/pbp.png){fig-align="center" width="600"}
@@ -488,7 +510,7 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 
 ## Carbapenems
 
-![](images/carbapenems.png){fig-align="center" width="600"}
+![β-lactam core + trans-6-hydroxyethyl side chain conferring carbapenemase stability.](images/carbapenems.png){fig-align="center" width="600"}
 
 ## Spectrum of activity {.smaller}
 
@@ -505,8 +527,6 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 • **Intrinsic resistance patterns**: Naturally inactive against *Stenotrophomonas maltophilia, Burkholderia cepacia* complex, and most *Acinetobacter* species (though imipenem may retain some *Acinetobacter* activity).
 
 • **Unique spectrum considerations**: Ertapenem lacks anti-pseudomonal and anti-*Acinetobacter* activity but has a longer half-life allowing once-daily dosing, while newer combinations like meropenem-vaborbactam and imipenem-relebactam restore activity against some KPC-producing Enterobacterales.
-
-## What is not covered?
 
 ## Gram-Positive Gaps
 
@@ -528,13 +548,15 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 
 -   **Serratia spp. (imipenem)**
 
--   **Elizabethkingia** (formerly Chryseobacterium) **meningosepticum** bapenem-Resistant Organisms **"Stay Alert Elizabeth"**
+-   **Elizabethkingia** (formerly Chryseobacterium) **meningosepticum**: **"Stay Alert Elizabeth"**
 
 -   **S** - ***Stenotrophomonas maltophilia*** - L1 and L2 β-lactamases; requires TMP-SMX
 
 -   **A** - ***Aeromonas species*** - Some strains produce metallo-β-lactamases (though variable resistance)
 
 -   **E** - ***Elizabethkingia meningosepticum*** - Multiple β-lactamases including metallo-β-lactamases
+
+-   B- Bu*rkholderia cepacia*,
 
 ## Ertapenem- "APE" spectrum hole
 
@@ -543,8 +565,12 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 ![](images/ape.jpg){fig-align="left" width="300"}
 
 -   A = *Acinetobacter* species
+
 -   P = *Pseudomonas aeruginosa*
+
 -   E = E*nterococcus* species
+
+    -   Variable activity against *Stenotrophomonas maltophilia*, *Burkholderia cepacia*, *Elizabethkingia* spp.
 
 ## Pharmacokinetics of Carbapenem Antibiotics {.smaller}
 
@@ -555,11 +581,11 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Distribution**  | • Vd: 0.15-0.35 L/kg<br>• Protein binding varies widely:<br>- Imipenem: 20%<br>- Meropenem: 2%<br>- Doripenem: 8%<br>- Ertapenem: 85-95%<br>• CSF penetration: 10-30% (inflamed meninges) \|                                                                                                  |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Metabolism**    | • Minimal hepatic metabolism<br>• Imipenem requires cilastatin to prevent renal metabolism by DHP-I<br>• t½:<br>- Imipenem: 1 hr<br>- Meropenem: 1 hr<br>- Doripenem: 1 hr<br>- Ertapenem: 4 hr \|                                                                                            |
+| **Metabolism**    | • Minimal hepatic metabolism<br>• Imipenem requires cilastatin to prevent renal metabolism by DHP-I<br>• t½:<br>- Imipenem: 1 hr<br>- Meropenem: 1 hr<br>- Doripenem: 1 hr<br>- Ertapenem: 4 hr                                                                                               |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Elimination**   | • Primarily renal (70-95%)<br>• Dose adjustment required for CrCl \<50 mL/min<br>• Removed by hemodialysis (except ertapenem)                                                                                                                                                                 |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **PK/PD Target**  | ≥40% fT\>MIC (optimal bactericidal: ≥70% fT\>MIC)                                                                                                                                                                                                                                             |
+| **PK/PD Target**  | ≥40% *f*T~\>MIC~ (optimal bactericidal: ≥70% fT~\>MIC~)                                                                                                                                                                                                                                       |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Typical Doses** | • **Imipenem-cilastatin**: 500mg-1g IV q6-8h<br>• **Meropenem**: 1-2g IV q8h (3g q8h for meningitis)<br>• **Doripenem**: 500mg IV q8h over 1-4 hours<br>• **Ertapenem**: 1g IV/IM q24h<br>• **Meropenem-vaborbactam**: 4g q8h over 3 hours<br>• **Imipenem-cilastatin-relebactam**: 1.25g q6h |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -568,7 +594,7 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 
 ## Carbapenem side effects
 
--   Seizures: Impinem \> meropenem, ertapenem
+-   Seizures: Imipenem \> meropenem, ertapenem
 
 -   Phlebitis 4%
 
