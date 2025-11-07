@@ -12,7 +12,7 @@ format:
     slide-number: true
     incremental: false
     multiplex: false
-    chalkboard: true
+    chalkboard: false
     theme: [default, custom.scss]
     filters:
      - highlight-text
@@ -536,7 +536,15 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 
 -   **E** - ***Elizabethkingia meningosepticum*** - Multiple β-lactamases including metallo-β-lactamases
 
-## Ertapenem- APE spectrum hole
+## Ertapenem- "APE" spectrum hole
+
+<br>
+
+![](images/ape.jpg){fig-align="left" width="300"}
+
+-   A = *Acinetobacter* species
+-   P = *Pseudomonas aeruginosa*
+-   E = E*nterococcus* species
 
 ## Pharmacokinetics of Carbapenem Antibiotics {.smaller}
 
@@ -545,9 +553,9 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 +===================+===============================================================================================================================================================================================================================================================================================+
 | **Absorption**    | All intravenous formulations (ertapenem also IM)                                                                                                                                                                                                                                              |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Distribution**  | • Vd: 0.15-0.35 L/kg<br>• Protein binding varies widely:<br>  - Imipenem: 20%<br>  - Meropenem: 2%<br>  - Doripenem: 8%<br>  - Ertapenem: 85-95%<br>• CSF penetration: 10-30% (inflamed meninges)                                                                                             |
+| **Distribution**  | • Vd: 0.15-0.35 L/kg<br>• Protein binding varies widely:<br>- Imipenem: 20%<br>- Meropenem: 2%<br>- Doripenem: 8%<br>- Ertapenem: 85-95%<br>• CSF penetration: 10-30% (inflamed meninges) \|                                                                                                  |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Metabolism**    | • Minimal hepatic metabolism<br>• Imipenem requires cilastatin to prevent renal metabolism by DHP-I<br>• t½:<br>  - Imipenem: 1 hr<br>  - Meropenem: 1 hr<br>  - Doripenem: 1 hr<br>  - Ertapenem: 4 hr                                                                                       |
+| **Metabolism**    | • Minimal hepatic metabolism<br>• Imipenem requires cilastatin to prevent renal metabolism by DHP-I<br>• t½:<br>- Imipenem: 1 hr<br>- Meropenem: 1 hr<br>- Doripenem: 1 hr<br>- Ertapenem: 4 hr \|                                                                                            |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Elimination**   | • Primarily renal (70-95%)<br>• Dose adjustment required for CrCl \<50 mL/min<br>• Removed by hemodialysis (except ertapenem)                                                                                                                                                                 |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -568,7 +576,7 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 
 -   Eosinophilia
 
--    DRESS
+-   DRESS
 
 -   Diarrhoea 6%
 
