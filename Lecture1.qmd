@@ -490,6 +490,88 @@ Image: <https://www.fetroja.com/overcoming-carbapenem-resistance>
 
 ![](images/carbapenems.png){fig-align="center" width="600"}
 
-## Spectrum of activity
+## Spectrum of activity {.smaller}
+
+• **Broad gram-positive coverage**: Active against most gram-positive bacteria including methicillin-sensitive *Staphylococcus aureus* (MSSA), Streptococcus species (including penicillin-resistant *S. pneumoniae*), and *Enterococcus faecalis.* However, they lack activity against methicillin-resistant Staphylococcus aureus (MRSA) and Enterococcus faecium.
+
+• **Excellent gram-negative coverage**: Highly effective against Enterobacterales (*E. coli, Klebsiella, Proteus, Serratia, Citrobacter, Enterobacte*r) including many ESBL and AmpC-producing strains, making them crucial for treating multidrug-resistant gram-negative infections.
+
+• ***Pseudomonas aeruginosa*** **activity**: Most carbapenems (except ertapenem) have anti-pseudomonal activity, though resistance is increasingly common. Doripenem and meropenem generally have better anti-pseudomonal activity than imipenem.
+
+• **Anaerobic coverage**: Excellent activity against both gram-positive and gram-negative anaerobes including *Bacteroides fragilis* group, Clostridium species (except *C. difficile*), *Fusobacterium*, and *Peptostreptococcus*, making them suitable for polymicrobial infections.
+
+• **Atypical pathogen gaps**: Limited or no activity against atypical pathogens including *Mycoplasma, Chlamydia, Legionell*a, and mycobacteria, requiring alternative agents for these infections.
+
+• **Intrinsic resistance patterns**: Naturally inactive against *Stenotrophomonas maltophilia, Burkholderia cepacia* complex, and most *Acinetobacter* species (though imipenem may retain some *Acinetobacter* activity).
+
+• **Unique spectrum considerations**: Ertapenem lacks anti-pseudomonal and anti-*Acinetobacter* activity but has a longer half-life allowing once-daily dosing, while newer combinations like meropenem-vaborbactam and imipenem-relebactam restore activity against some KPC-producing Enterobacterales.
+
+## What is not covered?
+
+## Gram-Positive Gaps
+
+-   **MRSA (Methicillin-resistant Staphylococcus aureus)** - One of the most important gaps; requires vancomycin, daptomycin, linezolid, or other anti-MRSA agents
+
+-   **Enterococcus faecium** - Intrinsically resistant; particularly problematic as VRE (vancomycin-resistant enterococci)
+
+-   **Coagulase-negative staphylococci (methicillin-resistant)** - Common cause of device-related and catheter infections
+
+## Gram-Negative Gaps {.smaller}
+
+-   **Stenotrophomonas maltophilia** - Intrinsically resistant due to L1 metallo-β-lactamase; requires trimethoprim-sulfamethoxazole or alternatives
+
+-   **Burkholderia cepacia complex** - Intrinsically resistant; important in cystic fibrosis patients
+
+-   **Carbapenem-resistant Enterobacterales (CRE)** - Including KPC, NDM, OXA-48 producers; increasingly common worldwide
+
+-   **Carbapenem-resistant Acinetobacter baumannii** - Major nosocomial pathogen with high mortality
+
+-   **Serratia spp. (imipenem)**
+
+-   **Elizabethkingia** (formerly Chryseobacterium) **meningosepticum** bapenem-Resistant Organisms **"Stay Alert Elizabeth"**
+
+-   **S** - ***Stenotrophomonas maltophilia*** - L1 and L2 β-lactamases; requires TMP-SMX
+
+-   **A** - ***Aeromonas species*** - Some strains produce metallo-β-lactamases (though variable resistance)
+
+-   **E** - ***Elizabethkingia meningosepticum*** - Multiple β-lactamases including metallo-β-lactamases
+
+## Ertapenem- APE spectrum hole
+
+## Pharmacokinetics of Carbapenem Antibiotics {.smaller}
+
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Parameter         | Characteristics                                                                                                                                                                                                                                                                               |
++===================+===============================================================================================================================================================================================================================================================================================+
+| **Absorption**    | All intravenous formulations (ertapenem also IM)                                                                                                                                                                                                                                              |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Distribution**  | • Vd: 0.15-0.35 L/kg<br>• Protein binding varies widely:<br>  - Imipenem: 20%<br>  - Meropenem: 2%<br>  - Doripenem: 8%<br>  - Ertapenem: 85-95%<br>• CSF penetration: 10-30% (inflamed meninges)                                                                                             |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Metabolism**    | • Minimal hepatic metabolism<br>• Imipenem requires cilastatin to prevent renal metabolism by DHP-I<br>• t½:<br>  - Imipenem: 1 hr<br>  - Meropenem: 1 hr<br>  - Doripenem: 1 hr<br>  - Ertapenem: 4 hr                                                                                       |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Elimination**   | • Primarily renal (70-95%)<br>• Dose adjustment required for CrCl \<50 mL/min<br>• Removed by hemodialysis (except ertapenem)                                                                                                                                                                 |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **PK/PD Target**  | ≥40% fT\>MIC (optimal bactericidal: ≥70% fT\>MIC)                                                                                                                                                                                                                                             |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Typical Doses** | • **Imipenem-cilastatin**: 500mg-1g IV q6-8h<br>• **Meropenem**: 1-2g IV q8h (3g q8h for meningitis)<br>• **Doripenem**: 500mg IV q8h over 1-4 hours<br>• **Ertapenem**: 1g IV/IM q24h<br>• **Meropenem-vaborbactam**: 4g q8h over 3 hours<br>• **Imipenem-cilastatin-relebactam**: 1.25g q6h |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+**Note**: Extended infusions (3-4 hours) optimize PK/PD target achievement, especially for resistant organisms with elevated MICs.
+
+## Carbapenem side effects
+
+-   Seizures: Impinem \> meropenem, ertapenem
+
+-   Phlebitis 4%
+
+-   Neutropenia
+
+-   Eosinophilia
+
+-    DRESS
+
+-   Diarrhoea 6%
+
+-   Deranged LFTs 6%
 
 ## References
