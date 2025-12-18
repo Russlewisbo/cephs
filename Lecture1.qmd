@@ -59,11 +59,11 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ::::: columns
 ::: {.column width="50%"}
-![Inhibition of transpeptidase (PBP)](https://i.makeagif.com/media/4-07-2017/l7_PRO.gif)
+![Inhibition of transpeptidase (PBP)](https://i.makeagif.com/media/4-07-2017/l7_PRO.gif){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![Lysis of growing bacterial cells](https://i.makeagif.com/media/10-05-2017/e3c7kf.gif)
+![Lysis of growing bacterial cells](https://i.makeagif.com/media/10-05-2017/e3c7kf.gif){fig-align="center"}
 :::
 :::::
 
@@ -191,7 +191,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 +-------------------+--------------------------------------------------------------------------+
 | **Metabolism**    | -   No metabolism                                                        |
 |                   |                                                                          |
-|                   | -   t½: cefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan( 3-4 hr) \| |
+|                   | -   t½: cefuroxime (1.5hrs); cefadroxil (1.5 hrs); cefotetan (3-4 hr) \| |
 +-------------------+--------------------------------------------------------------------------+
 | **Elimination**   | Renal 100%                                                               |
 +-------------------+--------------------------------------------------------------------------+
